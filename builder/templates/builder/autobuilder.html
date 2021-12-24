@@ -1,0 +1,37 @@
+{% extends 'builder/base.html' %}
+{% block title %}Multisell Link Builder :: Auto Builder{% endblock %}
+{% load static %}
+{% block js %}<script src="{% static 'builder/js/ab.js' %}"></script>{% endblock %}
+
+{% block active %}
+    <a href="/builder/">Link Builder</a>
+    <a class="active" href="/autobuilder/">Auto Builder</a>
+    <a href="/about/">About</a>
+{% endblock %}
+
+{% block content %}
+<div class="content-container about">
+    <h2>Auto Builder</h2>
+    <p>Choose a game and enter your Steam ID below.</p>
+    <p>Please make sure to enter only your 17-digit Steam ID.</p>
+    <div class="builder-dropdown-main">
+        <div onclick="toggleDrop()" class="bd builder-box"><div id="dropdown">Choose Game</div><i class="arrow"></i></div>
+                <div id="abd" class="builder-dropdown">
+                    <button id="abfirst" value="csgo" class="builder-game g"><img src="{% static '' %}builder/images/output/logos/csgo.jpg"><div>Counter Strike: Global Offensive</div></button>
+                    <button value="rust" class="builder-game g"><img src="{% static '' %}builder/images/output/logos/rust.jpg"><div>Rust</div></button>
+                    <button value="tf2" class="builder-game g"><img src="{% static '' %}builder/images/output/logos/tf2.jpg"><div>Team Fortress 2</div></button>
+                    <button id="last" value="ut" class="builder-game g"><img src="{% static '' %}builder/images/output/logos/ut.jpg"><div>Unturned</div></button>
+                </div>
+            </div>
+        <form action="/autobuilder/" method="get">
+            <input type="radio" name="game" value="csgo" id="csgo" required>
+            <input type="radio" name="game" value="rust" id="rust">
+            <input type="radio" name="game" value="tf2" id="tf2">
+            <input type="radio" name="game" value="ut" id="ut">
+            {{ form.steam_id }}<button class="go-button" type="submit" value="Go">Go</button>
+        </form>
+</div>
+<script>
+
+</script>
+{% endblock %}

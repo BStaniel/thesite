@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Title{% endblock %}</title>
+    {% load static %}
+    {% block js %} {% endblock %}
+    <link rel="stylesheet" type="text/css" href="{% static 'builder/stylesheets/main.css' %}">
+    <script src="{% static 'builder/js/main.js' %}"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="header">
+    <a href="/builder/" class="logo">MULTISELL<span class="sublogo">Link Builder</span></a>
+    <div class="navigation" onclick="navdrop()">
+        <div id="dropdown-icon">
+            <div class="nav-line"></div>
+            <div class="nav-line"></div>
+            <div class="nav-line"></div>
+        </div>
+        <div class="nav-links">
+        {% block active %}
+            <a href="/builder/">Link Builder</a>
+            <a href="/autobuilder/">Auto Builder</a>
+            <a href="/about/">About</a>
+        {% endblock %}
+        </div>
+    </div>
+</div>
+{% block content %}
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,1866 @@
+[
+  {
+    "name": "A Color Similar to Slate",
+    "img_path": "./output/tf2_img/A Color Similar to Slate.png"
+  },
+  {
+    "name": "A Deep Commitment to Purple",
+    "img_path": "./output/tf2_img/A Deep Commitment to Purple.png"
+  },
+  {
+    "name": "A Distinctive Lack of Hue",
+    "img_path": "./output/tf2_img/A Distinctive Lack of Hue.png"
+  },
+  {
+    "name": "A Mann's Mint",
+    "img_path": "./output/tf2_img/A Manns Mint.png"
+  },
+  {
+    "name": "A Random Duck Token Gift",
+    "img_path": "./output/tf2_img/A Random Duck Token Gift.png"
+  },
+  {
+    "name": "A Random End of the Line Key Gift",
+    "img_path": "./output/tf2_img/A Random End of the Line Key Gift.png"
+  },
+  {
+    "name": "A Random Robo Community Crate Key Gift",
+    "img_path": "./output/tf2_img/A Random Robo Community Crate Key Gift.png"
+  },
+  {
+    "name": "A Random Summer Cooler Key Gift",
+    "img_path": "./output/tf2_img/A Random Summer Cooler Key Gift.png"
+  },
+  {
+    "name": "Abominable Cosmetic Case",
+    "img_path": "./output/tf2_img/Abominable Cosmetic Case.png"
+  },
+  {
+    "name": "Abominable Cosmetic Key",
+    "img_path": "./output/tf2_img/Abominable Cosmetic Key.png"
+  },
+  {
+    "name": "After Eight",
+    "img_path": "./output/tf2_img/After Eight.png"
+  },
+  {
+    "name": "Aged Moustache Grey",
+    "img_path": "./output/tf2_img/Aged Moustache Grey.png"
+  },
+  {
+    "name": "Air Strike Strangifier",
+    "img_path": "./output/tf2_img/Air Strike Strangifier.png"
+  },
+  {
+    "name": "All-Father Strangifier",
+    "img_path": "./output/tf2_img/All-Father Strangifier.png"
+  },
+  {
+    "name": "An Air of Debonair",
+    "img_path": "./output/tf2_img/An Air of Debonair.png"
+  },
+  {
+    "name": "An Extraordinary Abundance of Tinge",
+    "img_path": "./output/tf2_img/An Extraordinary Abundance of Tinge.png"
+  },
+  {
+    "name": "Anger Strangifier",
+    "img_path": "./output/tf2_img/Anger Strangifier.png"
+  },
+  {
+    "name": "Antarctic Researcher Strangifier",
+    "img_path": "./output/tf2_img/Antarctic Researcher Strangifier.png"
+  },
+  {
+    "name": "Apparition's Aspect Strangifier",
+    "img_path": "./output/tf2_img/Apparitions Aspect Strangifier.png"
+  },
+  {
+    "name": "Aqua Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Aqua Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Aqua Summer 2013 Cooler Series #66",
+    "img_path": "./output/tf2_img/Aqua Summer 2013 Cooler Series 66.png"
+  },
+  {
+    "name": "Archer's Groundings Strangifier",
+    "img_path": "./output/tf2_img/Archers Groundings Strangifier.png"
+  },
+  {
+    "name": "Archimedes Strangifier",
+    "img_path": "./output/tf2_img/Archimedes Strangifier.png"
+  },
+  {
+    "name": "Australium Gold",
+    "img_path": "./output/tf2_img/Australium Gold.png"
+  },
+  {
+    "name": "Backpack Expander",
+    "img_path": "./output/tf2_img/Backpack Expander.png"
+  },
+  {
+    "name": "Backstabber's Boomslang Strangifier",
+    "img_path": "./output/tf2_img/Backstabbers Boomslang Strangifier.png"
+  },
+  {
+    "name": "Balaclavas Are Forever",
+    "img_path": "./output/tf2_img/Balaclavas Are Forever.png"
+  },
+  {
+    "name": "Battle-Worn Robot KB-808",
+    "img_path": "./output/tf2_img/Battle-Worn Robot KB-808.png"
+  },
+  {
+    "name": "Battle-Worn Robot Money Furnace",
+    "img_path": "./output/tf2_img/Battle-Worn Robot Money Furnace.png"
+  },
+  {
+    "name": "Battle-Worn Robot Taunt Processor",
+    "img_path": "./output/tf2_img/Battle-Worn Robot Taunt Processor.png"
+  },
+  {
+    "name": "Big Chief Strangifier",
+    "img_path": "./output/tf2_img/Big Chief Strangifier.png"
+  },
+  {
+    "name": "Bird-Man of Aberdeen Strangifier",
+    "img_path": "./output/tf2_img/Bird-Man of Aberdeen Strangifier.png"
+  },
+  {
+    "name": "Black Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Black Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Black Summer 2013 Cooler Series #69",
+    "img_path": "./output/tf2_img/Black Summer 2013 Cooler Series 69.png"
+  },
+  {
+    "name": "Blood Banker Strangifier",
+    "img_path": "./output/tf2_img/Blood Banker Strangifier.png"
+  },
+  {
+    "name": "Blue Moon Cosmetic Case",
+    "img_path": "./output/tf2_img/Blue Moon Cosmetic Case.png"
+  },
+  {
+    "name": "Blue Moon Cosmetic Key",
+    "img_path": "./output/tf2_img/Blue Moon Cosmetic Key.png"
+  },
+  {
+    "name": "Blue Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Blue Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Blue Summer 2013 Cooler Series #67",
+    "img_path": "./output/tf2_img/Blue Summer 2013 Cooler Series 67.png"
+  },
+  {
+    "name": "Bonk Boy Strangifier",
+    "img_path": "./output/tf2_img/Bonk Boy Strangifier.png"
+  },
+  {
+    "name": "Boston Boom-Bringer Strangifier",
+    "img_path": "./output/tf2_img/Boston Boom-Bringer Strangifier.png"
+  },
+  {
+    "name": "Brown Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Brown Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Brown Summer 2013 Cooler Series #68",
+    "img_path": "./output/tf2_img/Brown Summer 2013 Cooler Series 68.png"
+  },
+  {
+    "name": "Bullet Buzz Strangifier",
+    "img_path": "./output/tf2_img/Bullet Buzz Strangifier.png"
+  },
+  {
+    "name": "Bushi-Dou Strangifier",
+    "img_path": "./output/tf2_img/Bushi-Dou Strangifier.png"
+  },
+  {
+    "name": "Camera Beard Strangifier",
+    "img_path": "./output/tf2_img/Camera Beard Strangifier.png"
+  },
+  {
+    "name": "Civilian Grade Stat Clock",
+    "img_path": "./output/tf2_img/Civilian Grade Stat Clock.png"
+  },
+  {
+    "name": "Classic Strangifier",
+    "img_path": "./output/tf2_img/Classic Strangifier.png"
+  },
+  {
+    "name": "Cleaner's Carbine Strangifier",
+    "img_path": "./output/tf2_img/Cleaners Carbine Strangifier.png"
+  },
+  {
+    "name": "Colonel's Coat Strangifier",
+    "img_path": "./output/tf2_img/Colonels Coat Strangifier.png"
+  },
+  {
+    "name": "Color No. 216-190-216",
+    "img_path": "./output/tf2_img/Color No. 216-190-216.png"
+  },
+  {
+    "name": "Combat Slacks Strangifier",
+    "img_path": "./output/tf2_img/Combat Slacks Strangifier.png"
+  },
+  {
+    "name": "Confidential Collection Case",
+    "img_path": "./output/tf2_img/Confidential Collection Case.png"
+  },
+  {
+    "name": "Cow Mangler 5000 Strangifier",
+    "img_path": "./output/tf2_img/Cow Mangler 5000 Strangifier.png"
+  },
+  {
+    "name": "Cream Spirit",
+    "img_path": "./output/tf2_img/Cream Spirit.png"
+  },
+  {
+    "name": "Creepy Crawly Case",
+    "img_path": "./output/tf2_img/Creepy Crawly Case.png"
+  },
+  {
+    "name": "Creepy Crawly Key",
+    "img_path": "./output/tf2_img/Creepy Crawly Key.png"
+  },
+  {
+    "name": "Crimson Cache Case",
+    "img_path": "./output/tf2_img/Crimson Cache Case.png"
+  },
+  {
+    "name": "Crimson Cache Key",
+    "img_path": "./output/tf2_img/Crimson Cache Key.png"
+  },
+  {
+    "name": "Cute Suit Strangifier",
+    "img_path": "./output/tf2_img/Cute Suit Strangifier.png"
+  },
+  {
+    "name": "Dark Age Defender Strangifier",
+    "img_path": "./output/tf2_img/Dark Age Defender Strangifier.png"
+  },
+  {
+    "name": "Dark Falkirk Helm Strangifier",
+    "img_path": "./output/tf2_img/Dark Falkirk Helm Strangifier.png"
+  },
+  {
+    "name": "Dark Salmon Injustice",
+    "img_path": "./output/tf2_img/Dark Salmon Injustice.png"
+  },
+  {
+    "name": "Decal Tool",
+    "img_path": "./output/tf2_img/Decal Tool.png"
+  },
+  {
+    "name": "Deep Cover Operator Strangifier",
+    "img_path": "./output/tf2_img/Deep Cover Operator Strangifier.png"
+  },
+  {
+    "name": "Description Tag",
+    "img_path": "./output/tf2_img/Description Tag.png"
+  },
+  {
+    "name": "Dough Puncher Strangifier",
+    "img_path": "./output/tf2_img/Dough Puncher Strangifier.png"
+  },
+  {
+    "name": "Drably Olive",
+    "img_path": "./output/tf2_img/Drably Olive.png"
+  },
+  {
+    "name": "Duck Token",
+    "img_path": "./output/tf2_img/Duck Token.png"
+  },
+  {
+    "name": "Eerie Crate Series #51",
+    "img_path": "./output/tf2_img/Eerie Crate Series 51.png"
+  },
+  {
+    "name": "Ein Strangifier",
+    "img_path": "./output/tf2_img/Ein Strangifier.png"
+  },
+  {
+    "name": "Eliminator's Safeguard Strangifier",
+    "img_path": "./output/tf2_img/Eliminators Safeguard Strangifier.png"
+  },
+  {
+    "name": "End of the Line Community Crate Series #87",
+    "img_path": "./output/tf2_img/End of the Line Community Crate Series 87.png"
+  },
+  {
+    "name": "End of the Line Key",
+    "img_path": "./output/tf2_img/End of the Line Key.png"
+  },
+  {
+    "name": "Fall 2013 Acorns Crate Key",
+    "img_path": "./output/tf2_img/Fall 2013 Acorns Crate Key.png"
+  },
+  {
+    "name": "Fall 2013 Acorns Crate Series #72",
+    "img_path": "./output/tf2_img/Fall 2013 Acorns Crate Series 72.png"
+  },
+  {
+    "name": "Fall 2013 Gourd Crate Key",
+    "img_path": "./output/tf2_img/Fall 2013 Gourd Crate Key.png"
+  },
+  {
+    "name": "Fall 2013 Gourd Crate Series #73",
+    "img_path": "./output/tf2_img/Fall 2013 Gourd Crate Series 73.png"
+  },
+  {
+    "name": "Fall Crate Series #48",
+    "img_path": "./output/tf2_img/Fall Crate Series 48.png"
+  },
+  {
+    "name": "Fancy Dress Uniform Strangifier",
+    "img_path": "./output/tf2_img/Fancy Dress Uniform Strangifier.png"
+  },
+  {
+    "name": "Fashionable Megalomaniac Strangifier",
+    "img_path": "./output/tf2_img/Fashionable Megalomaniac Strangifier.png"
+  },
+  {
+    "name": "Festive Winter Crate Series #6",
+    "img_path": "./output/tf2_img/Festive Winter Crate Series 6.png"
+  },
+  {
+    "name": "Foppish Physician Strangifier",
+    "img_path": "./output/tf2_img/Foppish Physician Strangifier.png"
+  },
+  {
+    "name": "Gaiter Guards Strangifier",
+    "img_path": "./output/tf2_img/Gaiter Guards Strangifier.png"
+  },
+  {
+    "name": "Gargoyle Case",
+    "img_path": "./output/tf2_img/Gargoyle Case.png"
+  },
+  {
+    "name": "Gargoyle Key",
+    "img_path": "./output/tf2_img/Gargoyle Key.png"
+  },
+  {
+    "name": "Ghastlier Gibus Strangifier",
+    "img_path": "./output/tf2_img/Ghastlier Gibus Strangifier.png"
+  },
+  {
+    "name": "Ghastlierest Gibus Strangifier",
+    "img_path": "./output/tf2_img/Ghastlierest Gibus Strangifier.png"
+  },
+  {
+    "name": "Ghastly Gibus Strangifier",
+    "img_path": "./output/tf2_img/Ghastly Gibus Strangifier.png"
+  },
+  {
+    "name": "Ghostly Gibus Strangifier",
+    "img_path": "./output/tf2_img/Ghostly Gibus Strangifier.png"
+  },
+  {
+    "name": "Gift Wrap",
+    "img_path": "./output/tf2_img/Gift Wrap.png"
+  },
+  {
+    "name": "Gone Commando Strangifier",
+    "img_path": "./output/tf2_img/Gone Commando Strangifier.png"
+  },
+  {
+    "name": "Green Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Green Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Green Summer 2013 Cooler Series #65",
+    "img_path": "./output/tf2_img/Green Summer 2013 Cooler Series 65.png"
+  },
+  {
+    "name": "Ground Control Strangifier",
+    "img_path": "./output/tf2_img/Ground Control Strangifier.png"
+  },
+  {
+    "name": "Gun Mettle Campaign Pass",
+    "img_path": "./output/tf2_img/Gun Mettle Campaign Pass.png"
+  },
+  {
+    "name": "Gun Mettle Cosmetic Case",
+    "img_path": "./output/tf2_img/Gun Mettle Cosmetic Case.png"
+  },
+  {
+    "name": "Gun Mettle Cosmetic Key",
+    "img_path": "./output/tf2_img/Gun Mettle Cosmetic Key.png"
+  },
+  {
+    "name": "Gun Mettle Key",
+    "img_path": "./output/tf2_img/Gun Mettle Key.png"
+  },
+  {
+    "name": "Heat of Winter Strangifier",
+    "img_path": "./output/tf2_img/Heat of Winter Strangifier.png"
+  },
+  {
+    "name": "Heavy Lifter Strangifier",
+    "img_path": "./output/tf2_img/Heavy Lifter Strangifier.png"
+  },
+  {
+    "name": "Heer's Helmet Strangifier",
+    "img_path": "./output/tf2_img/Heers Helmet Strangifier.png"
+  },
+  {
+    "name": "Horseless Headless Horsemann's Head Strangifier",
+    "img_path": "./output/tf2_img/Horseless Headless Horsemanns Head Strangifier.png"
+  },
+  {
+    "name": "Horseless Headless Horsemann's Headtaker Strangifier",
+    "img_path": "./output/tf2_img/Horseless Headless Horsemanns Headtaker Strangifier.png"
+  },
+  {
+    "name": "Huntsman's Essentials Strangifier",
+    "img_path": "./output/tf2_img/Huntsmans Essentials Strangifier.png"
+  },
+  {
+    "name": "Indubitably Green",
+    "img_path": "./output/tf2_img/Indubitably Green.png"
+  },
+  {
+    "name": "Infernal Reward War Paint Case",
+    "img_path": "./output/tf2_img/Infernal Reward War Paint Case.png"
+  },
+  {
+    "name": "Infernal Reward War Paint Key",
+    "img_path": "./output/tf2_img/Infernal Reward War Paint Key.png"
+  },
+  {
+    "name": "Invasion Community Update Key",
+    "img_path": "./output/tf2_img/Invasion Community Update Key.png"
+  },
+  {
+    "name": "Invasion Community Update Pass",
+    "img_path": "./output/tf2_img/Invasion Community Update Pass.png"
+  },
+  {
+    "name": "Juggernaut Jacket Strangifier",
+    "img_path": "./output/tf2_img/Juggernaut Jacket Strangifier.png"
+  },
+  {
+    "name": "Jungle Inferno Campaign Pass",
+    "img_path": "./output/tf2_img/Jungle Inferno Campaign Pass.png"
+  },
+  {
+    "name": "Jungle Inferno Contracts Pass",
+    "img_path": "./output/tf2_img/Jungle Inferno Contracts Pass.png"
+  },
+  {
+    "name": "Jungle Jackpot War Paint Case",
+    "img_path": "./output/tf2_img/Jungle Jackpot War Paint Case.png"
+  },
+  {
+    "name": "Jungle Jackpot War Paint Key",
+    "img_path": "./output/tf2_img/Jungle Jackpot War Paint Key.png"
+  },
+  {
+    "name": "Killer's Kit Strangifier",
+    "img_path": "./output/tf2_img/Killers Kit Strangifier.png"
+  },
+  {
+    "name": "Law Strangifier",
+    "img_path": "./output/tf2_img/Law Strangifier.png"
+  },
+  {
+    "name": "Leftover Trap Strangifier",
+    "img_path": "./output/tf2_img/Leftover Trap Strangifier.png"
+  },
+  {
+    "name": "Limited Late Summer Crate Series #86",
+    "img_path": "./output/tf2_img/Limited Late Summer Crate Series 86.png"
+  },
+  {
+    "name": "Lord Cockswain's Novelty Mutton Chops and Pipe Strangifier",
+    "img_path": "./output/tf2_img/Lord Cockswains Novelty Mutton Chops and Pipe Strangifier.png"
+  },
+  {
+    "name": "Manmelter Strangifier",
+    "img_path": "./output/tf2_img/Manmelter Strangifier.png"
+  },
+  {
+    "name": "Mann Co. Audition Reel",
+    "img_path": "./output/tf2_img/Mann Co. Audition Reel.png"
+  },
+  {
+    "name": "Mann Co. Director's Cut Reel",
+    "img_path": "./output/tf2_img/Mann Co. Directors Cut Reel.png"
+  },
+  {
+    "name": "Mann Co. Orange",
+    "img_path": "./output/tf2_img/Mann Co. Orange.png"
+  },
+  {
+    "name": "Mann Co. Stockpile Crate",
+    "img_path": "./output/tf2_img/Mann Co. Stockpile Crate.png"
+  },
+  {
+    "name": "Mann Co. Stockpile Crate Key",
+    "img_path": "./output/tf2_img/Mann Co. Stockpile Crate Key.png"
+  },
+  {
+    "name": "Mann Co. Strongbox Key",
+    "img_path": "./output/tf2_img/Mann Co. Strongbox Key.png"
+  },
+  {
+    "name": "Mann Co. Strongbox Series #81",
+    "img_path": "./output/tf2_img/Mann Co. Strongbox Series 81.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Key",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Key.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #1",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 1.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #10",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 10.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #11",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 11.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #12",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 12.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #13",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 13.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #14",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 14.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #15",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 15.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #16",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 16.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #17",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 17.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #18",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 18.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #19",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 19.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #2",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 2.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #20",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 20.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #21",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 21.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #23",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 23.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #24",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 24.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #25",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 25.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #26",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 26.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #27",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 27.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #28",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 28.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #29",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 29.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #3",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 3.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #31",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 31.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #32",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 32.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #33",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 33.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #34",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 34.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #37",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 37.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #38",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 38.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #39",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 39.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #4",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 4.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #41",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 41.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #42",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 42.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #43",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 43.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #44",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 44.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #45",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 45.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #47",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 47.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #49",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 49.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #5",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 5.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #54",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 54.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #55",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 55.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #56",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 56.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #57",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 57.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #59",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 59.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #7",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 7.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #71",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 71.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #75",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 75.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #76",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 76.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #77",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 77.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #8",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 8.png"
+  },
+  {
+    "name": "Mann Co. Supply Crate Series #9",
+    "img_path": "./output/tf2_img/Mann Co. Supply Crate Series 9.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #103",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 103.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #82",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 82.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #83",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 83.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #84",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 84.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #85",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 85.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #90",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 90.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #91",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 91.png"
+  },
+  {
+    "name": "Mann Co. Supply Munition Series #92",
+    "img_path": "./output/tf2_img/Mann Co. Supply Munition Series 92.png"
+  },
+  {
+    "name": "Mayflower Cosmetic Case",
+    "img_path": "./output/tf2_img/Mayflower Cosmetic Case.png"
+  },
+  {
+    "name": "Mayflower Cosmetic Key",
+    "img_path": "./output/tf2_img/Mayflower Cosmetic Key.png"
+  },
+  {
+    "name": "Merc's Pride Scarf Strangifier",
+    "img_path": "./output/tf2_img/Mercs Pride Scarf Strangifier.png"
+  },
+  {
+    "name": "Mildly Disturbing Halloween Mask Strangifier",
+    "img_path": "./output/tf2_img/Mildly Disturbing Halloween Mask Strangifier.png"
+  },
+  {
+    "name": "MONOCULUS! Strangifier",
+    "img_path": "./output/tf2_img/MONOCULUS! Strangifier.png"
+  },
+  {
+    "name": "Muskelmannbraun",
+    "img_path": "./output/tf2_img/Muskelmannbraun.png"
+  },
+  {
+    "name": "Mustachioed Mann Strangifier",
+    "img_path": "./output/tf2_img/Mustachioed Mann Strangifier.png"
+  },
+  {
+    "name": "Name Tag",
+    "img_path": "./output/tf2_img/Name Tag.png"
+  },
+  {
+    "name": "Napoleon Complex Strangifier",
+    "img_path": "./output/tf2_img/Napoleon Complex Strangifier.png"
+  },
+  {
+    "name": "Naughty Winter Crate 2012 Series #52",
+    "img_path": "./output/tf2_img/Naughty Winter Crate 2012 Series 52.png"
+  },
+  {
+    "name": "Naughty Winter Crate 2013 Series #78",
+    "img_path": "./output/tf2_img/Naughty Winter Crate 2013 Series 78.png"
+  },
+  {
+    "name": "Naughty Winter Crate 2014 Series #88",
+    "img_path": "./output/tf2_img/Naughty Winter Crate 2014 Series 88.png"
+  },
+  {
+    "name": "Naughty Winter Crate Series #35",
+    "img_path": "./output/tf2_img/Naughty Winter Crate Series 35.png"
+  },
+  {
+    "name": "Necro Smasher Strangifier",
+    "img_path": "./output/tf2_img/Necro Smasher Strangifier.png"
+  },
+  {
+    "name": "Nice Winter Crate 2012 Series #53",
+    "img_path": "./output/tf2_img/Nice Winter Crate 2012 Series 53.png"
+  },
+  {
+    "name": "Nice Winter Crate 2013 Series #79",
+    "img_path": "./output/tf2_img/Nice Winter Crate 2013 Series 79.png"
+  },
+  {
+    "name": "Nice Winter Crate 2014 Series #89",
+    "img_path": "./output/tf2_img/Nice Winter Crate 2014 Series 89.png"
+  },
+  {
+    "name": "Nice Winter Crate Series #36",
+    "img_path": "./output/tf2_img/Nice Winter Crate Series 36.png"
+  },
+  {
+    "name": "Noble Hatter's Violet",
+    "img_path": "./output/tf2_img/Noble Hatters Violet.png"
+  },
+  {
+    "name": "Operator's Overalls",
+    "img_path": "./output/tf2_img/Operators Overalls.png"
+  },
+  {
+    "name": "Orange Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Orange Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Orange Summer 2013 Cooler Series #63",
+    "img_path": "./output/tf2_img/Orange Summer 2013 Cooler Series 63.png"
+  },
+  {
+    "name": "Outback Intellectual Strangifier",
+    "img_path": "./output/tf2_img/Outback Intellectual Strangifier.png"
+  },
+  {
+    "name": "Peculiarly Drab Tincture",
+    "img_path": "./output/tf2_img/Peculiarly Drab Tincture.png"
+  },
+  {
+    "name": "Phlogistinator Strangifier",
+    "img_path": "./output/tf2_img/Phlogistinator Strangifier.png"
+  },
+  {
+    "name": "Pile of Duck Token Gifts",
+    "img_path": "./output/tf2_img/Pile of Duck Token Gifts.png"
+  },
+  {
+    "name": "Pile of End of the Line Key Gifts",
+    "img_path": "./output/tf2_img/Pile of End of the Line Key Gifts.png"
+  },
+  {
+    "name": "Pile of Robo Community Crate Key Gifts",
+    "img_path": "./output/tf2_img/Pile of Robo Community Crate Key Gifts.png"
+  },
+  {
+    "name": "Pile of Summer Cooler Key Gifts",
+    "img_path": "./output/tf2_img/Pile of Summer Cooler Key Gifts.png"
+  },
+  {
+    "name": "Pink as Hell",
+    "img_path": "./output/tf2_img/Pink as Hell.png"
+  },
+  {
+    "name": "Pomson 6000 Strangifier",
+    "img_path": "./output/tf2_img/Pomson 6000 Strangifier.png"
+  },
+  {
+    "name": "Pretty Boy's Pocket Pistol Strangifier",
+    "img_path": "./output/tf2_img/Pretty Boys Pocket Pistol Strangifier.png"
+  },
+  {
+    "name": "Pristine Robot Brainstorm Bulb",
+    "img_path": "./output/tf2_img/Pristine Robot Brainstorm Bulb.png"
+  },
+  {
+    "name": "Pristine Robot Currency Digester",
+    "img_path": "./output/tf2_img/Pristine Robot Currency Digester.png"
+  },
+  {
+    "name": "Private Eye Strangifier",
+    "img_path": "./output/tf2_img/Private Eye Strangifier.png"
+  },
+  {
+    "name": "Professor Speks Strangifier",
+    "img_path": "./output/tf2_img/Professor Speks Strangifier.png"
+  },
+  {
+    "name": "Pyroland Weapons Case",
+    "img_path": "./output/tf2_img/Pyroland Weapons Case.png"
+  },
+  {
+    "name": "Quarantined Collection Case",
+    "img_path": "./output/tf2_img/Quarantined Collection Case.png"
+  },
+  {
+    "name": "Radigan Conagher Brown",
+    "img_path": "./output/tf2_img/Radigan Conagher Brown.png"
+  },
+  {
+    "name": "Rainy Day Cosmetic Case",
+    "img_path": "./output/tf2_img/Rainy Day Cosmetic Case.png"
+  },
+  {
+    "name": "Rainy Day Cosmetic Key",
+    "img_path": "./output/tf2_img/Rainy Day Cosmetic Key.png"
+  },
+  {
+    "name": "Rat Stompers Strangifier",
+    "img_path": "./output/tf2_img/Rat Stompers Strangifier.png"
+  },
+  {
+    "name": "Red Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Red Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Red Summer 2013 Cooler Series #62",
+    "img_path": "./output/tf2_img/Red Summer 2013 Cooler Series 62.png"
+  },
+  {
+    "name": "Refreshing Summer Cooler Series #22",
+    "img_path": "./output/tf2_img/Refreshing Summer Cooler Series 22.png"
+  },
+  {
+    "name": "Reinforced Robot Bomb Stabilizer",
+    "img_path": "./output/tf2_img/Reinforced Robot Bomb Stabilizer.png"
+  },
+  {
+    "name": "Reinforced Robot Emotion Detector",
+    "img_path": "./output/tf2_img/Reinforced Robot Emotion Detector.png"
+  },
+  {
+    "name": "Reinforced Robot Humor Suppression Pump",
+    "img_path": "./output/tf2_img/Reinforced Robot Humor Suppression Pump.png"
+  },
+  {
+    "name": "Righteous Bison Strangifier",
+    "img_path": "./output/tf2_img/Righteous Bison Strangifier.png"
+  },
+  {
+    "name": "Robo Community Crate Key",
+    "img_path": "./output/tf2_img/Robo Community Crate Key.png"
+  },
+  {
+    "name": "Robo Community Crate Series #58",
+    "img_path": "./output/tf2_img/Robo Community Crate Series 58.png"
+  },
+  {
+    "name": "Robo Community Crate Series #58",
+    "img_path": "./output/tf2_img/Robo Community Crate Series 58.png"
+  },
+  {
+    "name": "RoBro 3000 Strangifier",
+    "img_path": "./output/tf2_img/RoBro 3000 Strangifier.png"
+  },
+  {
+    "name": "Salvaged Mann Co. Supply Crate Series #30",
+    "img_path": "./output/tf2_img/Salvaged Mann Co. Supply Crate Series 30.png"
+  },
+  {
+    "name": "Salvaged Mann Co. Supply Crate Series #40",
+    "img_path": "./output/tf2_img/Salvaged Mann Co. Supply Crate Series 40.png"
+  },
+  {
+    "name": "Salvaged Mann Co. Supply Crate Series #50",
+    "img_path": "./output/tf2_img/Salvaged Mann Co. Supply Crate Series 50.png"
+  },
+  {
+    "name": "Sammy Cap Strangifier",
+    "img_path": "./output/tf2_img/Sammy Cap Strangifier.png"
+  },
+  {
+    "name": "Sandvich Safe Strangifier",
+    "img_path": "./output/tf2_img/Sandvich Safe Strangifier.png"
+  },
+  {
+    "name": "Sangu Sleeves Strangifier",
+    "img_path": "./output/tf2_img/Sangu Sleeves Strangifier.png"
+  },
+  {
+    "name": "Scorched Crate Series #46",
+    "img_path": "./output/tf2_img/Scorched Crate Series 46.png"
+  },
+  {
+    "name": "Scotch Saver Strangifier",
+    "img_path": "./output/tf2_img/Scotch Saver Strangifier.png"
+  },
+  {
+    "name": "Scream Fortress X War Paint Case",
+    "img_path": "./output/tf2_img/Scream Fortress X War Paint Case.png"
+  },
+  {
+    "name": "Scream Fortress X War Paint Key",
+    "img_path": "./output/tf2_img/Scream Fortress X War Paint Key.png"
+  },
+  {
+    "name": "Scream Fortress XII War Paint Case",
+    "img_path": "./output/tf2_img/Scream Fortress XII War Paint Case.png"
+  },
+  {
+    "name": "Scream Fortress XII War Paint Key",
+    "img_path": "./output/tf2_img/Scream Fortress XII War Paint Key.png"
+  },
+  {
+    "name": "Scream Fortress XIII War Paint Case",
+    "img_path": "./output/tf2_img/Scream Fortress XIII War Paint Case.png"
+  },
+  {
+    "name": "Scream Fortress XIII War Paint Key",
+    "img_path": "./output/tf2_img/Scream Fortress XIII War Paint Key.png"
+  },
+  {
+    "name": "Select Reserve Mann Co. Supply Crate Series #60",
+    "img_path": "./output/tf2_img/Select Reserve Mann Co. Supply Crate Series 60.png"
+  },
+  {
+    "name": "Sight for Sore Eyes Strangifier",
+    "img_path": "./output/tf2_img/Sight for Sore Eyes Strangifier.png"
+  },
+  {
+    "name": "Skull Island Topper Strangifier",
+    "img_path": "./output/tf2_img/Skull Island Topper Strangifier.png"
+  },
+  {
+    "name": "Smissmas 2015 Festive Gift",
+    "img_path": "./output/tf2_img/Smissmas 2015 Festive Gift.png"
+  },
+  {
+    "name": "Smock Surgeon Strangifier",
+    "img_path": "./output/tf2_img/Smock Surgeon Strangifier.png"
+  },
+  {
+    "name": "Sole Mate Strangifier",
+    "img_path": "./output/tf2_img/Sole Mate Strangifier.png"
+  },
+  {
+    "name": "Sole Saviors Strangifier",
+    "img_path": "./output/tf2_img/Sole Saviors Strangifier.png"
+  },
+  {
+    "name": "Spine-Chilling Skull 2011 Strangifier",
+    "img_path": "./output/tf2_img/Spine-Chilling Skull 2011 Strangifier.png"
+  },
+  {
+    "name": "Spine-Chilling Skull Strangifier",
+    "img_path": "./output/tf2_img/Spine-Chilling Skull Strangifier.png"
+  },
+  {
+    "name": "Spine-Cooling Skull Strangifier",
+    "img_path": "./output/tf2_img/Spine-Cooling Skull Strangifier.png"
+  },
+  {
+    "name": "Spine-Tingling Skull Strangifier",
+    "img_path": "./output/tf2_img/Spine-Tingling Skull Strangifier.png"
+  },
+  {
+    "name": "Spine-Twisting Skull Strangifier",
+    "img_path": "./output/tf2_img/Spine-Twisting Skull Strangifier.png"
+  },
+  {
+    "name": "Spooky Crate Series #74",
+    "img_path": "./output/tf2_img/Spooky Crate Series 74.png"
+  },
+  {
+    "name": "Spooky Spoils Case",
+    "img_path": "./output/tf2_img/Spooky Spoils Case.png"
+  },
+  {
+    "name": "Spooky Spoils Key",
+    "img_path": "./output/tf2_img/Spooky Spoils Key.png"
+  },
+  {
+    "name": "Squad Surplus Voucher",
+    "img_path": "./output/tf2_img/Squad Surplus Voucher.png"
+  },
+  {
+    "name": "Stockbroker's Scarf Strangifier",
+    "img_path": "./output/tf2_img/Stockbrokers Scarf Strangifier.png"
+  },
+  {
+    "name": "Strange Bacon Grease",
+    "img_path": "./output/tf2_img/Strange Bacon Grease.png"
+  },
+  {
+    "name": "Strange Cosmetic Part: Assists",
+    "img_path": "./output/tf2_img/Strange Cosmetic Part Assists.png"
+  },
+  {
+    "name": "Strange Cosmetic Part: Fires Survived",
+    "img_path": "./output/tf2_img/Strange Cosmetic Part Fires Survived.png"
+  },
+  {
+    "name": "Strange Cosmetic Part: Freezecam Taunt Appearances",
+    "img_path": "./output/tf2_img/Strange Cosmetic Part Freezecam Taunt Appearances.png"
+  },
+  {
+    "name": "Strange Cosmetic Part: Kills",
+    "img_path": "./output/tf2_img/Strange Cosmetic Part Kills.png"
+  },
+  {
+    "name": "Strange Count Transfer Tool",
+    "img_path": "./output/tf2_img/Strange Count Transfer Tool.png"
+  },
+  {
+    "name": "Strange Filter: 2Fort Invasion (Community)",
+    "img_path": "./output/tf2_img/Strange Filter 2Fort Invasion (Community).png"
+  },
+  {
+    "name": "Strange Filter: Banana Bay (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Banana Bay (Community).png"
+  },
+  {
+    "name": "Strange Filter: Bloodwater (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Bloodwater (Community).png"
+  },
+  {
+    "name": "Strange Filter: Borneo (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Borneo (Community).png"
+  },
+  {
+    "name": "Strange Filter: Brazil (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Brazil (Community).png"
+  },
+  {
+    "name": "Strange Filter: Bread Space (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Bread Space (Community).png"
+  },
+  {
+    "name": "Strange Filter: Brimstone (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Brimstone (Community).png"
+  },
+  {
+    "name": "Strange Filter: Byre (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Byre (Community).png"
+  },
+  {
+    "name": "Strange Filter: Cauldron (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Cauldron (Community).png"
+  },
+  {
+    "name": "Strange Filter: Coldfront (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Coldfront (Community).png"
+  },
+  {
+    "name": "Strange Filter: Competitive",
+    "img_path": "./output/tf2_img/Strange Filter Competitive.png"
+  },
+  {
+    "name": "Strange Filter: Cursed Cove (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Cursed Cove (Community).png"
+  },
+  {
+    "name": "Strange Filter: Doublefrost (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Doublefrost (Community).png"
+  },
+  {
+    "name": "Strange Filter: Egypt (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Egypt (Community).png"
+  },
+  {
+    "name": "Strange Filter: Enclosure (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Enclosure (Community).png"
+  },
+  {
+    "name": "Strange Filter: Erebus (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Erebus (Community).png"
+  },
+  {
+    "name": "Strange Filter: Farmageddon (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Farmageddon (Community).png"
+  },
+  {
+    "name": "Strange Filter: Fastlane (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Fastlane (Community).png"
+  },
+  {
+    "name": "Strange Filter: Freight (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Freight (Community).png"
+  },
+  {
+    "name": "Strange Filter: Frontier (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Frontier (Community).png"
+  },
+  {
+    "name": "Strange Filter: Gorge Event (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Gorge Event (Community).png"
+  },
+  {
+    "name": "Strange Filter: Gravestone (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Gravestone (Community).png"
+  },
+  {
+    "name": "Strange Filter: Graveyard (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Graveyard (Community).png"
+  },
+  {
+    "name": "Strange Filter: Gullywash (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Gullywash (Community).png"
+  },
+  {
+    "name": "Strange Filter: Harvest (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Harvest (Community).png"
+  },
+  {
+    "name": "Strange Filter: Hassle Castle (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Hassle Castle (Community).png"
+  },
+  {
+    "name": "Strange Filter: Hellstone (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Hellstone (Community).png"
+  },
+  {
+    "name": "Strange Filter: Highpass (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Highpass (Community).png"
+  },
+  {
+    "name": "Strange Filter: Hoodoo (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Hoodoo (Community).png"
+  },
+  {
+    "name": "Strange Filter: Junction (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Junction (Community).png"
+  },
+  {
+    "name": "Strange Filter: Kong King (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Kong King (Community).png"
+  },
+  {
+    "name": "Strange Filter: Lakeside (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Lakeside (Community).png"
+  },
+  {
+    "name": "Strange Filter: Landfall (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Landfall (Community).png"
+  },
+  {
+    "name": "Strange Filter: Laughter (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Laughter (Community).png"
+  },
+  {
+    "name": "Strange Filter: Lazarus (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Lazarus (Community).png"
+  },
+  {
+    "name": "Strange Filter: Los Muertos (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Los Muertos (Community).png"
+  },
+  {
+    "name": "Strange Filter: Mann Manor (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Mann Manor (Community).png"
+  },
+  {
+    "name": "Strange Filter: Maple Ridge Event (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Maple Ridge Event (Community).png"
+  },
+  {
+    "name": "Strange Filter: Megalo (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Megalo (Community).png"
+  },
+  {
+    "name": "Strange Filter: Metalworks (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Metalworks (Community).png"
+  },
+  {
+    "name": "Strange Filter: Moldergrove (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Moldergrove (Community).png"
+  },
+  {
+    "name": "Strange Filter: Monster Bash (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Monster Bash (Community).png"
+  },
+  {
+    "name": "Strange Filter: Moonshine Event (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Moonshine Event (Community).png"
+  },
+  {
+    "name": "Strange Filter: Mossrock (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Mossrock (Community).png"
+  },
+  {
+    "name": "Strange Filter: Mountain Lab (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Mountain Lab (Community).png"
+  },
+  {
+    "name": "Strange Filter: Nightfall (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Nightfall (Community).png"
+  },
+  {
+    "name": "Strange Filter: Offblast (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Offblast (Community).png"
+  },
+  {
+    "name": "Strange Filter: Pier (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Pier (Community).png"
+  },
+  {
+    "name": "Strange Filter: Pit of Death (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Pit of Death (Community).png"
+  },
+  {
+    "name": "Strange Filter: Polar (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Polar (Community).png"
+  },
+  {
+    "name": "Strange Filter: Precipice (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Precipice (Community).png"
+  },
+  {
+    "name": "Strange Filter: Probed (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Probed (Community).png"
+  },
+  {
+    "name": "Strange Filter: Process (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Process (Community).png"
+  },
+  {
+    "name": "Strange Filter: Sinshine (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Sinshine (Community).png"
+  },
+  {
+    "name": "Strange Filter: Sinthetic (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Sinthetic (Community).png"
+  },
+  {
+    "name": "Strange Filter: Slasher (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Slasher (Community).png"
+  },
+  {
+    "name": "Strange Filter: Snakewater (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Snakewater (Community).png"
+  },
+  {
+    "name": "Strange Filter: Snowfall (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Snowfall (Community).png"
+  },
+  {
+    "name": "Strange Filter: Snowplow (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Snowplow (Community).png"
+  },
+  {
+    "name": "Strange Filter: SnowVille (Community)",
+    "img_path": "./output/tf2_img/Strange Filter SnowVille (Community).png"
+  },
+  {
+    "name": "Strange Filter: Snowycoast (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Snowycoast (Community).png"
+  },
+  {
+    "name": "Strange Filter: Standin (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Standin (Community).png"
+  },
+  {
+    "name": "Strange Filter: Steel (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Steel (Community).png"
+  },
+  {
+    "name": "Strange Filter: Suijin (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Suijin (Community).png"
+  },
+  {
+    "name": "Strange Filter: Sunshine (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Sunshine (Community).png"
+  },
+  {
+    "name": "Strange Filter: Swiftwater (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Swiftwater (Community).png"
+  },
+  {
+    "name": "Strange Filter: Terror (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Terror (Community).png"
+  },
+  {
+    "name": "Strange Filter: Turbine (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Turbine (Community).png"
+  },
+  {
+    "name": "Strange Filter: Vanguard (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Vanguard (Community).png"
+  },
+  {
+    "name": "Strange Filter: Watchtower (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Watchtower (Community).png"
+  },
+  {
+    "name": "Strange Filter: Watergate (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Watergate (Community).png"
+  },
+  {
+    "name": "Strange Filter: Wutville (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Wutville (Community).png"
+  },
+  {
+    "name": "Strange Filter: Yukon (Community)",
+    "img_path": "./output/tf2_img/Strange Filter Yukon (Community).png"
+  },
+  {
+    "name": "Strange Part: Airborne Enemies Killed",
+    "img_path": "./output/tf2_img/Strange Part Airborne Enemies Killed.png"
+  },
+  {
+    "name": "Strange Part: Allied Healing Done",
+    "img_path": "./output/tf2_img/Strange Part Allied Healing Done.png"
+  },
+  {
+    "name": "Strange Part: Buildings Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Buildings Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Burning Enemy Kills",
+    "img_path": "./output/tf2_img/Strange Part Burning Enemy Kills.png"
+  },
+  {
+    "name": "Strange Part: Cloaked Spies Killed",
+    "img_path": "./output/tf2_img/Strange Part Cloaked Spies Killed.png"
+  },
+  {
+    "name": "Strange Part: Critical Kills",
+    "img_path": "./output/tf2_img/Strange Part Critical Kills.png"
+  },
+  {
+    "name": "Strange Part: Damage Dealt",
+    "img_path": "./output/tf2_img/Strange Part Damage Dealt.png"
+  },
+  {
+    "name": "Strange Part: Defender Kills",
+    "img_path": "./output/tf2_img/Strange Part Defender Kills.png"
+  },
+  {
+    "name": "Strange Part: Demomen Killed",
+    "img_path": "./output/tf2_img/Strange Part Demomen Killed.png"
+  },
+  {
+    "name": "Strange Part: Domination Kills",
+    "img_path": "./output/tf2_img/Strange Part Domination Kills.png"
+  },
+  {
+    "name": "Strange Part: Engineers Killed",
+    "img_path": "./output/tf2_img/Strange Part Engineers Killed.png"
+  },
+  {
+    "name": "Strange Part: Full Health Kills",
+    "img_path": "./output/tf2_img/Strange Part Full Health Kills.png"
+  },
+  {
+    "name": "Strange Part: Full Moon Kills",
+    "img_path": "./output/tf2_img/Strange Part Full Moon Kills.png"
+  },
+  {
+    "name": "Strange Part: Giant Robots Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Giant Robots Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Gib Kills",
+    "img_path": "./output/tf2_img/Strange Part Gib Kills.png"
+  },
+  {
+    "name": "Strange Part: Halloween Kills",
+    "img_path": "./output/tf2_img/Strange Part Halloween Kills.png"
+  },
+  {
+    "name": "Strange Part: Headshot Kills",
+    "img_path": "./output/tf2_img/Strange Part Headshot Kills.png"
+  },
+  {
+    "name": "Strange Part: Heavies Killed",
+    "img_path": "./output/tf2_img/Strange Part Heavies Killed.png"
+  },
+  {
+    "name": "Strange Part: Kills During Victory Time",
+    "img_path": "./output/tf2_img/Strange Part Kills During Victory Time.png"
+  },
+  {
+    "name": "Strange Part: Kills While Explosive Jumping",
+    "img_path": "./output/tf2_img/Strange Part Kills While Explosive Jumping.png"
+  },
+  {
+    "name": "Strange Part: Kills While \u00dcbercharged",
+    "img_path": "./output/tf2_img/Strange Part Kills While \u00dcbercharged.png"
+  },
+  {
+    "name": "Strange Part: Kills with a Taunt Attack",
+    "img_path": "./output/tf2_img/Strange Part Kills with a Taunt Attack.png"
+  },
+  {
+    "name": "Strange Part: Killstreaks Ended",
+    "img_path": "./output/tf2_img/Strange Part Killstreaks Ended.png"
+  },
+  {
+    "name": "Strange Part: Long-Distance Kills",
+    "img_path": "./output/tf2_img/Strange Part Long-Distance Kills.png"
+  },
+  {
+    "name": "Strange Part: Low-Health Kills",
+    "img_path": "./output/tf2_img/Strange Part Low-Health Kills.png"
+  },
+  {
+    "name": "Strange Part: Medics Killed",
+    "img_path": "./output/tf2_img/Strange Part Medics Killed.png"
+  },
+  {
+    "name": "Strange Part: Medics Killed That Have Full \u00dcberCharge",
+    "img_path": "./output/tf2_img/Strange Part Medics Killed That Have Full \u00dcberCharge.png"
+  },
+  {
+    "name": "Strange Part: Not Crit nor MiniCrit Kills",
+    "img_path": "./output/tf2_img/Strange Part Not Crit nor MiniCrit Kills.png"
+  },
+  {
+    "name": "Strange Part: Player Hits",
+    "img_path": "./output/tf2_img/Strange Part Player Hits.png"
+  },
+  {
+    "name": "Strange Part: Point-Blank Kills",
+    "img_path": "./output/tf2_img/Strange Part Point-Blank Kills.png"
+  },
+  {
+    "name": "Strange Part: Posthumous Kills",
+    "img_path": "./output/tf2_img/Strange Part Posthumous Kills.png"
+  },
+  {
+    "name": "Strange Part: Projectiles Reflected",
+    "img_path": "./output/tf2_img/Strange Part Projectiles Reflected.png"
+  },
+  {
+    "name": "Strange Part: Pyros Killed",
+    "img_path": "./output/tf2_img/Strange Part Pyros Killed.png"
+  },
+  {
+    "name": "Strange Part: Revenge Kills",
+    "img_path": "./output/tf2_img/Strange Part Revenge Kills.png"
+  },
+  {
+    "name": "Strange Part: Robot Scouts Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Robot Scouts Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Robot Spies Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Robot Spies Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Robots Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Robots Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Robots Destroyed During Halloween",
+    "img_path": "./output/tf2_img/Strange Part Robots Destroyed During Halloween.png"
+  },
+  {
+    "name": "Strange Part: Sappers Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Sappers Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Scouts Killed",
+    "img_path": "./output/tf2_img/Strange Part Scouts Killed.png"
+  },
+  {
+    "name": "Strange Part: Snipers Killed",
+    "img_path": "./output/tf2_img/Strange Part Snipers Killed.png"
+  },
+  {
+    "name": "Strange Part: Soldiers Killed",
+    "img_path": "./output/tf2_img/Strange Part Soldiers Killed.png"
+  },
+  {
+    "name": "Strange Part: Spies Killed",
+    "img_path": "./output/tf2_img/Strange Part Spies Killed.png"
+  },
+  {
+    "name": "Strange Part: Tanks Destroyed",
+    "img_path": "./output/tf2_img/Strange Part Tanks Destroyed.png"
+  },
+  {
+    "name": "Strange Part: Taunting Player Kills",
+    "img_path": "./output/tf2_img/Strange Part Taunting Player Kills.png"
+  },
+  {
+    "name": "Strange Part: Teammates Extinguished",
+    "img_path": "./output/tf2_img/Strange Part Teammates Extinguished.png"
+  },
+  {
+    "name": "Strange Part: Underwater Kills",
+    "img_path": "./output/tf2_img/Strange Part Underwater Kills.png"
+  },
+  {
+    "name": "Strange Part: Unusual-Wearing Player Kills",
+    "img_path": "./output/tf2_img/Strange Part Unusual-Wearing Player Kills.png"
+  },
+  {
+    "name": "Stylish DeGroot Strangifier",
+    "img_path": "./output/tf2_img/Stylish DeGroot Strangifier.png"
+  },
+  {
+    "name": "Summer 2019 Cosmetic Case",
+    "img_path": "./output/tf2_img/Summer 2019 Cosmetic Case.png"
+  },
+  {
+    "name": "Summer 2019 Cosmetic Key",
+    "img_path": "./output/tf2_img/Summer 2019 Cosmetic Key.png"
+  },
+  {
+    "name": "Summer 2020 Cosmetic Case",
+    "img_path": "./output/tf2_img/Summer 2020 Cosmetic Case.png"
+  },
+  {
+    "name": "Summer 2020 Cosmetic Key",
+    "img_path": "./output/tf2_img/Summer 2020 Cosmetic Key.png"
+  },
+  {
+    "name": "Summer 2021 Cosmetic Case",
+    "img_path": "./output/tf2_img/Summer 2021 Cosmetic Case.png"
+  },
+  {
+    "name": "Summer 2021 Cosmetic Key",
+    "img_path": "./output/tf2_img/Summer 2021 Cosmetic Key.png"
+  },
+  {
+    "name": "Summer Appetizer Crate Series #61",
+    "img_path": "./output/tf2_img/Summer Appetizer Crate Series 61.png"
+  },
+  {
+    "name": "Summer Appetizer Key",
+    "img_path": "./output/tf2_img/Summer Appetizer Key.png"
+  },
+  {
+    "name": "Summer Claim Check",
+    "img_path": "./output/tf2_img/Summer Claim Check.png"
+  },
+  {
+    "name": "Summer Shades Strangifier",
+    "img_path": "./output/tf2_img/Summer Shades Strangifier.png"
+  },
+  {
+    "name": "Team Spirit",
+    "img_path": "./output/tf2_img/Team Spirit.png"
+  },
+  {
+    "name": "Teddy Roosebelt Strangifier",
+    "img_path": "./output/tf2_img/Teddy Roosebelt Strangifier.png"
+  },
+  {
+    "name": "Teutonic Toque Strangifier",
+    "img_path": "./output/tf2_img/Teutonic Toque Strangifier.png"
+  },
+  {
+    "name": "The Bitter Taste of Defeat and Lime",
+    "img_path": "./output/tf2_img/The Bitter Taste of Defeat and Lime.png"
+  },
+  {
+    "name": "The Color of a Gentlemann's Business Pants",
+    "img_path": "./output/tf2_img/The Color of a Gentlemanns Business Pants.png"
+  },
+  {
+    "name": "The Concealed Killer Weapons Case",
+    "img_path": "./output/tf2_img/The Concealed Killer Weapons Case.png"
+  },
+  {
+    "name": "The Festivizer",
+    "img_path": "./output/tf2_img/The Festivizer.png"
+  },
+  {
+    "name": "The Powerhouse Weapons Case",
+    "img_path": "./output/tf2_img/The Powerhouse Weapons Case.png"
+  },
+  {
+    "name": "The Value of Teamwork",
+    "img_path": "./output/tf2_img/The Value of Teamwork.png"
+  },
+  {
+    "name": "Third Degree Strangifier",
+    "img_path": "./output/tf2_img/Third Degree Strangifier.png"
+  },
+  {
+    "name": "Ticket Boy Strangifier",
+    "img_path": "./output/tf2_img/Ticket Boy Strangifier.png"
+  },
+  {
+    "name": "Toowoomba Tunic Strangifier",
+    "img_path": "./output/tf2_img/Toowoomba Tunic Strangifier.png"
+  },
+  {
+    "name": "Toss-Proof Towel Strangifier",
+    "img_path": "./output/tf2_img/Toss-Proof Towel Strangifier.png"
+  },
+  {
+    "name": "Tough Break Campaign Pass",
+    "img_path": "./output/tf2_img/Tough Break Campaign Pass.png"
+  },
+  {
+    "name": "Tough Break Cosmetic Case",
+    "img_path": "./output/tf2_img/Tough Break Cosmetic Case.png"
+  },
+  {
+    "name": "Tough Break Cosmetic Key",
+    "img_path": "./output/tf2_img/Tough Break Cosmetic Key.png"
+  },
+  {
+    "name": "Tough Break Key",
+    "img_path": "./output/tf2_img/Tough Break Key.png"
+  },
+  {
+    "name": "Tour of Duty Ticket",
+    "img_path": "./output/tf2_img/Tour of Duty Ticket.png"
+  },
+  {
+    "name": "Trash Man Strangifier",
+    "img_path": "./output/tf2_img/Trash Man Strangifier.png"
+  },
+  {
+    "name": "Trencher's Topper Strangifier",
+    "img_path": "./output/tf2_img/Trenchers Topper Strangifier.png"
+  },
+  {
+    "name": "Trencher's Tunic Strangifier",
+    "img_path": "./output/tf2_img/Trenchers Tunic Strangifier.png"
+  },
+  {
+    "name": "Unleash the Beast Cosmetic Case",
+    "img_path": "./output/tf2_img/Unleash the Beast Cosmetic Case.png"
+  },
+  {
+    "name": "Unleash the Beast Cosmetic Key",
+    "img_path": "./output/tf2_img/Unleash the Beast Cosmetic Key.png"
+  },
+  {
+    "name": "Unlocked Winter 2016 Cosmetic Case",
+    "img_path": "./output/tf2_img/Unlocked Winter 2016 Cosmetic Case.png"
+  },
+  {
+    "name": "Upgrade to Premium Gift",
+    "img_path": "./output/tf2_img/Upgrade to Premium Gift.png"
+  },
+  {
+    "name": "Vaccinator Strangifier",
+    "img_path": "./output/tf2_img/Vaccinator Strangifier.png"
+  },
+  {
+    "name": "Villain's Veil Strangifier",
+    "img_path": "./output/tf2_img/Villains Veil Strangifier.png"
+  },
+  {
+    "name": "Violet Vermin Case",
+    "img_path": "./output/tf2_img/Violet Vermin Case.png"
+  },
+  {
+    "name": "Violet Vermin Key",
+    "img_path": "./output/tf2_img/Violet Vermin Key.png"
+  },
+  {
+    "name": "Voodoo Juju Strangifier",
+    "img_path": "./output/tf2_img/Voodoo Juju Strangifier.png"
+  },
+  {
+    "name": "War Goggles Strangifier",
+    "img_path": "./output/tf2_img/War Goggles Strangifier.png"
+  },
+  {
+    "name": "Warbird Weapons Case",
+    "img_path": "./output/tf2_img/Warbird Weapons Case.png"
+  },
+  {
+    "name": "Warmth Preserver Strangifier",
+    "img_path": "./output/tf2_img/Warmth Preserver Strangifier.png"
+  },
+  {
+    "name": "Waterlogged Lab Coat",
+    "img_path": "./output/tf2_img/Waterlogged Lab Coat.png"
+  },
+  {
+    "name": "Wicked Windfall Case",
+    "img_path": "./output/tf2_img/Wicked Windfall Case.png"
+  },
+  {
+    "name": "Wicked Windfall Key",
+    "img_path": "./output/tf2_img/Wicked Windfall Key.png"
+  },
+  {
+    "name": "Widowmaker Strangifier",
+    "img_path": "./output/tf2_img/Widowmaker Strangifier.png"
+  },
+  {
+    "name": "Winter 2017 Cosmetic Case",
+    "img_path": "./output/tf2_img/Winter 2017 Cosmetic Case.png"
+  },
+  {
+    "name": "Winter 2017 Cosmetic Key",
+    "img_path": "./output/tf2_img/Winter 2017 Cosmetic Key.png"
+  },
+  {
+    "name": "Winter 2017 War Paint Case",
+    "img_path": "./output/tf2_img/Winter 2017 War Paint Case.png"
+  },
+  {
+    "name": "Winter 2017 War Paint Key",
+    "img_path": "./output/tf2_img/Winter 2017 War Paint Key.png"
+  },
+  {
+    "name": "Winter 2018 Cosmetic Case",
+    "img_path": "./output/tf2_img/Winter 2018 Cosmetic Case.png"
+  },
+  {
+    "name": "Winter 2018 Cosmetic Key",
+    "img_path": "./output/tf2_img/Winter 2018 Cosmetic Key.png"
+  },
+  {
+    "name": "Winter 2019 Cosmetic Case",
+    "img_path": "./output/tf2_img/Winter 2019 Cosmetic Case.png"
+  },
+  {
+    "name": "Winter 2019 Cosmetic Key",
+    "img_path": "./output/tf2_img/Winter 2019 Cosmetic Key.png"
+  },
+  {
+    "name": "Winter 2019 War Paint Case",
+    "img_path": "./output/tf2_img/Winter 2019 War Paint Case.png"
+  },
+  {
+    "name": "Winter 2019 War Paint Key",
+    "img_path": "./output/tf2_img/Winter 2019 War Paint Key.png"
+  },
+  {
+    "name": "Winter 2020 Cosmetic Case",
+    "img_path": "./output/tf2_img/Winter 2020 Cosmetic Case.png"
+  },
+  {
+    "name": "Winter 2020 Cosmetic Key",
+    "img_path": "./output/tf2_img/Winter 2020 Cosmetic Key.png"
+  },
+  {
+    "name": "Winter 2020 War Paint Case",
+    "img_path": "./output/tf2_img/Winter 2020 War Paint Case.png"
+  },
+  {
+    "name": "Winter 2020 War Paint Key",
+    "img_path": "./output/tf2_img/Winter 2020 War Paint Key.png"
+  },
+  {
+    "name": "Winter 2021 Cosmetic Case",
+    "img_path": "./output/tf2_img/Winter 2021 Cosmetic Case.png"
+  },
+  {
+    "name": "Winter 2021 Cosmetic Key",
+    "img_path": "./output/tf2_img/Winter 2021 Cosmetic Key.png"
+  },
+  {
+    "name": "Ye Olde Rustic Colour",
+    "img_path": "./output/tf2_img/Ye Olde Rustic Colour.png"
+  },
+  {
+    "name": "Yellow Summer 2013 Cooler Key",
+    "img_path": "./output/tf2_img/Yellow Summer 2013 Cooler Key.png"
+  },
+  {
+    "name": "Yellow Summer 2013 Cooler Series #64",
+    "img_path": "./output/tf2_img/Yellow Summer 2013 Cooler Series 64.png"
+  },
+  {
+    "name": "Zepheniah's Greed",
+    "img_path": "./output/tf2_img/Zepheniahs Greed.png"
+  }
+]

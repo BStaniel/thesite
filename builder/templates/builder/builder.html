@@ -1,0 +1,67 @@
+{% extends 'builder/base.html' %}
+{% block title %}Multisell Link Builder{% endblock %}
+
+{% block active %}
+    <a class="active" href="/builder/">Link Builder</a>
+    <a href="/autobuilder/">Auto Builder</a>
+    <a href="/about/">About</a>
+{% endblock %}
+
+{% load static %}
+{% block content %}
+<div class="builder-page-content">
+    <div class="builder-left">
+        <div class="builder-background">
+            <h2 class="builder-title">ITEM LIST</h2>
+            <div class="builder-filter">
+                <div class="builder-dropdown-main">
+                    <div onclick="toggleDrop()" class="bd builder-box"><div id="dropdown">Choose Game</div><i class="arrow"></i></div>
+                    <div class="builder-dropdown">
+                        <button id="first" onclick="getItemLst(this)" value="csgo" class="builder-game"><img src="{% static '' %}builder/images/output/logos/csgo.jpg"><div>Counter Strike: Global Offensive</div></button>
+                        <button onclick="getItemLst(this)" value="rust" class="builder-game"><img src="{% static '' %}builder/images/output/logos/rust.jpg"><div>Rust</div></button>
+                        <button onclick="getItemLst(this)" value="tf2" class="builder-game"><img src="{% static '' %}builder/images/output/logos/tf2.jpg"><div>Team Fortress 2</div></button>
+                        <button id="last" onclick="getItemLst(this)" value="ut" class="builder-game"><img src="{% static '' %}builder/images/output/logos/ut.jpg"><div>Unturned</div></button>
+                    </div>
+                </div>
+                <input placeholder="Search..." id="search" onkeyup="searchItems()">
+                <div class="builder-box">
+                    <p class="builder-item-total">Items:</p><span class="builder-item-total" id="total-items">0</span>
+                </div>
+            </div>
+            <div class="builder-item-holder">
+                <div class="builder-item-page" id="item-page"></div>
+            </div>
+            <div class="builder-page-navigation">
+                <div id="pl" class="builder-box ab" onclick="previousPage()"><i class="arrow2 tl"></i></div>
+                <div class="page-count"><span id="current-page-num" class="ar">0</span><span> / </span><span id="total-page-num" class="al">0</span></div>
+                <div id="pr" class="builder-box ab" onclick="nextPage()"><i class="arrow2 tr"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="builder-right">
+        <div class="br builder-link-background">
+            <h2 class="builder-title">LINK</h2>
+            <div class="link-holder">
+                <input id="link" class="builder-link" onclick="select();" readonly><button id="link-go" onclick="redirect();" class="go-button" value="Go">Go</button>
+            </div>
+        </div>
+        <div class="builder-chosen-items">
+            <div class="br builder-background">
+                <h2 class="dn builder-title">CHOSEN</h2>
+                <div class="builder-box s">
+                    <p class="builder-item-total">Items:</p><span class="builder-item-total" id="total-items-c">0</span>
+                </div>
+                <div class="builder-item-holder">
+                    <div class="builder-item-page" id="builder-chosen-page">
+                    </div>
+                </div>
+                <div class="dn builder-page-navigation">
+                    <div id="cl" class="builder-box ab" onclick="previousPageChosen()"><i class="arrow2 tl"></i></div>
+                    <div class="page-count"><span id="chosen-page-num" class="ar">0</span><span> / </span><span id="chosen-page-total" class="al">0</span></div>
+                    <div id="cr" class="builder-box ab" onclick="nextPageChosen()"><i class="arrow2 tr"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

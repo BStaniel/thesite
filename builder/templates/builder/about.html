@@ -1,0 +1,23 @@
+{% extends 'builder/base.html' %}
+{% block title %}Multisell Link Builder :: About{% endblock %}
+
+{% block active %}
+    <a href="/builder/">Link Builder</a>
+    <a href="/autobuilder/">Auto Builder</a>
+    <a class="active" href="/about/">About</a>
+{% endblock %}
+
+{% block content %}
+<div class="content-container">
+    <h2>What Is This Website?</h2>
+    <p>Multisell link builder is a web app designed to easily create a custom link to the multisell page on the Steam Community Market. It features a searchable database of all commodity type items for Team Fortress 2 (TF2) and Counter Strike: Global Offensive (CSGO) as well as an automatic link builder that will generate a link based on the items in your inventory.</p>
+    <h3>What Is The Steam Community Market Multisell Page?</h3>
+    <p>The Steam Community Market multisell page is an official part of Steam that allows you to sell multiple commodity type items at once. While it is an official part of Steam it isn't easy to navigate to and requires you to manually enter the game's app id and item names.</p>
+    <h3>What Is A Commodity Item?</h3>
+    <p>Commodity items are items that are identical and do not have individual listings on the Community Market, for further clarification refer to the official definition from Steam <a class="link" href="https://help.steampowered.com/en/faqs/view/61F0-72B7-9A18-C70B#commodity" target=”_blank”>here</a>.</p>
+    <h2>Contact & Feedback</h2>
+    <p>Have any concerns, comments, or compliments? Feel free to <a class="link" href="https://steamcommunity.com/profiles/76561198064778111" target=”_blank”>add me on Steam</a> or leave a comment on my <a class="link" href="https://steamcommunity.com/profiles/76561198064778111" target=”_blank”>Steam profile</a>.</p>
+    <h2>Disclaimer</h2>
+    <p>This site is not affiliated with or endorsed by Steam in any capacity. All item names and images are taken from the Steam Community Market and do not belong to me.</p>
+</div>
+{% endblock %}

@@ -1,0 +1,1466 @@
+[
+  {
+    "name": "#1 Medal",
+    "img_path": "./output/ut_img/1 Medal.png"
+  },
+  {
+    "name": "3D Glasses",
+    "img_path": "./output/ut_img/3D Glasses.png"
+  },
+  {
+    "name": "^_^ Glasses",
+    "img_path": "./output/ut_img/Glasses.png"
+  },
+  {
+    "name": "Acoustic Guitar",
+    "img_path": "./output/ut_img/Acoustic Guitar.png"
+  },
+  {
+    "name": "Angry Tiki Mask",
+    "img_path": "./output/ut_img/Angry Tiki Mask.png"
+  },
+  {
+    "name": "Anniversary Gift Bag",
+    "img_path": "./output/ut_img/Anniversary Gift Bag.png"
+  },
+  {
+    "name": "Antlers",
+    "img_path": "./output/ut_img/Antlers.png"
+  },
+  {
+    "name": "April 2017 Workshop Crate #2",
+    "img_path": "./output/ut_img/April 2017 Workshop Crate 2.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Backpack",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Backpack.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Bandana",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Bandana.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Hat",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Hat.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Pants",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Pants.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Shirt",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Shirt.png"
+  },
+  {
+    "name": "Aprix Bandit Leader Shoulders",
+    "img_path": "./output/ut_img/Aprix Bandit Leader Shoulders.png"
+  },
+  {
+    "name": "Aprix Bandit Member Backpack",
+    "img_path": "./output/ut_img/Aprix Bandit Member Backpack.png"
+  },
+  {
+    "name": "Aprix Bandit Member Balaclava",
+    "img_path": "./output/ut_img/Aprix Bandit Member Balaclava.png"
+  },
+  {
+    "name": "Aprix Bandit Member Bullet Belt",
+    "img_path": "./output/ut_img/Aprix Bandit Member Bullet Belt.png"
+  },
+  {
+    "name": "Aprix Bandit Member Hat",
+    "img_path": "./output/ut_img/Aprix Bandit Member Hat.png"
+  },
+  {
+    "name": "Aprix Bandit Member Pants",
+    "img_path": "./output/ut_img/Aprix Bandit Member Pants.png"
+  },
+  {
+    "name": "Aprix Bandit Member Shirt",
+    "img_path": "./output/ut_img/Aprix Bandit Member Shirt.png"
+  },
+  {
+    "name": "Argentinian Jersey",
+    "img_path": "./output/ut_img/Argentinian Jersey.png"
+  },
+  {
+    "name": "Arms Shipment Mystery Box",
+    "img_path": "./output/ut_img/Arms Shipment Mystery Box.png"
+  },
+  {
+    "name": "Astronaut Bottom",
+    "img_path": "./output/ut_img/Astronaut Bottom.png"
+  },
+  {
+    "name": "Astronaut Helmet",
+    "img_path": "./output/ut_img/Astronaut Helmet.png"
+  },
+  {
+    "name": "Astronaut Top",
+    "img_path": "./output/ut_img/Astronaut Top.png"
+  },
+  {
+    "name": "Athena's Shield",
+    "img_path": "./output/ut_img/Athenas Shield.png"
+  },
+  {
+    "name": "Atmo Ski Goggles",
+    "img_path": "./output/ut_img/Atmo Ski Goggles.png"
+  },
+  {
+    "name": "Australian Jersey",
+    "img_path": "./output/ut_img/Australian Jersey.png"
+  },
+  {
+    "name": "Banana Shirt",
+    "img_path": "./output/ut_img/Banana Shirt.png"
+  },
+  {
+    "name": "Bandito Mask",
+    "img_path": "./output/ut_img/Bandito Mask.png"
+  },
+  {
+    "name": "Beanie",
+    "img_path": "./output/ut_img/Beanie.png"
+  },
+  {
+    "name": "Beast Wings",
+    "img_path": "./output/ut_img/Beast Wings.png"
+  },
+  {
+    "name": "Beige Skater Pants",
+    "img_path": "./output/ut_img/Beige Skater Pants.png"
+  },
+  {
+    "name": "Belgian Acid Trooper Bottom",
+    "img_path": "./output/ut_img/Belgian Acid Trooper Bottom.png"
+  },
+  {
+    "name": "Belgian Acid Trooper Canister",
+    "img_path": "./output/ut_img/Belgian Acid Trooper Canister.png"
+  },
+  {
+    "name": "Belgian Acid Trooper Gear",
+    "img_path": "./output/ut_img/Belgian Acid Trooper Gear.png"
+  },
+  {
+    "name": "Belgian Acid Trooper Top",
+    "img_path": "./output/ut_img/Belgian Acid Trooper Top.png"
+  },
+  {
+    "name": "Belgian Acid Trooper Visor",
+    "img_path": "./output/ut_img/Belgian Acid Trooper Visor.png"
+  },
+  {
+    "name": "Biker Jacket",
+    "img_path": "./output/ut_img/Biker Jacket.png"
+  },
+  {
+    "name": "Black Polka Dot Bowtie",
+    "img_path": "./output/ut_img/Black Polka Dot Bowtie.png"
+  },
+  {
+    "name": "Black Skater Pants",
+    "img_path": "./output/ut_img/Black Skater Pants.png"
+  },
+  {
+    "name": "Black Skater Top",
+    "img_path": "./output/ut_img/Black Skater Top.png"
+  },
+  {
+    "name": "Black Striped Tie",
+    "img_path": "./output/ut_img/Black Striped Tie.png"
+  },
+  {
+    "name": "Blaze T-Shirt",
+    "img_path": "./output/ut_img/Blaze TShirt.png"
+  },
+  {
+    "name": "Blue Birthday Party Hat",
+    "img_path": "./output/ut_img/Blue Birthday Party Hat.png"
+  },
+  {
+    "name": "Blue Boonie",
+    "img_path": "./output/ut_img/Blue Boonie.png"
+  },
+  {
+    "name": "Blue Hawaii Tee",
+    "img_path": "./output/ut_img/Blue Hawaii Tee.png"
+  },
+  {
+    "name": "Blue Mystery Box",
+    "img_path": "./output/ut_img/Blue Mystery Box.png"
+  },
+  {
+    "name": "Blue Neckscarf",
+    "img_path": "./output/ut_img/Blue Neckscarf.png"
+  },
+  {
+    "name": "Blue Origami Party Hat",
+    "img_path": "./output/ut_img/Blue Origami Party Hat.png"
+  },
+  {
+    "name": "Blue Ski Goggles",
+    "img_path": "./output/ut_img/Blue Ski Goggles.png"
+  },
+  {
+    "name": "Blue Sweatpants",
+    "img_path": "./output/ut_img/Blue Sweatpants.png"
+  },
+  {
+    "name": "Blue-Yellow Polka Dot Tie",
+    "img_path": "./output/ut_img/BlueYellow Polka Dot Tie.png"
+  },
+  {
+    "name": "Bolt",
+    "img_path": "./output/ut_img/Bolt.png"
+  },
+  {
+    "name": "Bowler Hat",
+    "img_path": "./output/ut_img/Bowler Hat.png"
+  },
+  {
+    "name": "Brazilian Jersey",
+    "img_path": "./output/ut_img/Brazilian Jersey.png"
+  },
+  {
+    "name": "Brown Skater Top",
+    "img_path": "./output/ut_img/Brown Skater Top.png"
+  },
+  {
+    "name": "Bucket Helmet",
+    "img_path": "./output/ut_img/Bucket Helmet.png"
+  },
+  {
+    "name": "Bulldozer Hoodie",
+    "img_path": "./output/ut_img/Bulldozer Hoodie.png"
+  },
+  {
+    "name": "Camel Shirt",
+    "img_path": "./output/ut_img/Camel Shirt.png"
+  },
+  {
+    "name": "Camo Boonie Hat",
+    "img_path": "./output/ut_img/Camo Boonie Hat.png"
+  },
+  {
+    "name": "Canadian Jersey",
+    "img_path": "./output/ut_img/Canadian Jersey.png"
+  },
+  {
+    "name": "Caracal Shirt",
+    "img_path": "./output/ut_img/Caracal Shirt.png"
+  },
+  {
+    "name": "Carbon Fiber Mystery Box",
+    "img_path": "./output/ut_img/Carbon Fiber Mystery Box.png"
+  },
+  {
+    "name": "Cargo Salamander",
+    "img_path": "./output/ut_img/Cargo Salamander.png"
+  },
+  {
+    "name": "Carrot Nose",
+    "img_path": "./output/ut_img/Carrot Nose.png"
+  },
+  {
+    "name": "Chilean Jersey",
+    "img_path": "./output/ut_img/Chilean Jersey.png"
+  },
+  {
+    "name": "Chinese Jersey",
+    "img_path": "./output/ut_img/Chinese Jersey.png"
+  },
+  {
+    "name": "Chrome Plated Mystery Box",
+    "img_path": "./output/ut_img/Chrome Plated Mystery Box.png"
+  },
+  {
+    "name": "Clown Hair",
+    "img_path": "./output/ut_img/Clown Hair.png"
+  },
+  {
+    "name": "Cobweb Bandana",
+    "img_path": "./output/ut_img/Cobweb Bandana.png"
+  },
+  {
+    "name": "Colorful Bowtie",
+    "img_path": "./output/ut_img/Colorful Bowtie.png"
+  },
+  {
+    "name": "Colorful Tie",
+    "img_path": "./output/ut_img/Colorful Tie.png"
+  },
+  {
+    "name": "Conical Hat",
+    "img_path": "./output/ut_img/Conical Hat.png"
+  },
+  {
+    "name": "Corduroy Pants",
+    "img_path": "./output/ut_img/Corduroy Pants.png"
+  },
+  {
+    "name": "Corduroy Shorts",
+    "img_path": "./output/ut_img/Corduroy Shorts.png"
+  },
+  {
+    "name": "Corinthian Helmet",
+    "img_path": "./output/ut_img/Corinthian Helmet.png"
+  },
+  {
+    "name": "Crown",
+    "img_path": "./output/ut_img/Crown.png"
+  },
+  {
+    "name": "Czech Jersey",
+    "img_path": "./output/ut_img/Czech Jersey.png"
+  },
+  {
+    "name": "Dango Streetwear Jacket",
+    "img_path": "./output/ut_img/Dango Streetwear Jacket.png"
+  },
+  {
+    "name": "Dango Streetwear Pants",
+    "img_path": "./output/ut_img/Dango Streetwear Pants.png"
+  },
+  {
+    "name": "Danish Jersey",
+    "img_path": "./output/ut_img/Danish Jersey.png"
+  },
+  {
+    "name": "Dark Blue Plaid Shirt",
+    "img_path": "./output/ut_img/Dark Blue Plaid Shirt.png"
+  },
+  {
+    "name": "Dark Purple Plaid Shirt",
+    "img_path": "./output/ut_img/Dark Purple Plaid Shirt.png"
+  },
+  {
+    "name": "Designer Jeans",
+    "img_path": "./output/ut_img/Designer Jeans.png"
+  },
+  {
+    "name": "Detective Bottom",
+    "img_path": "./output/ut_img/Detective Bottom.png"
+  },
+  {
+    "name": "Detective Cap",
+    "img_path": "./output/ut_img/Detective Cap.png"
+  },
+  {
+    "name": "Detective Top",
+    "img_path": "./output/ut_img/Detective Top.png"
+  },
+  {
+    "name": "Diving Helmet",
+    "img_path": "./output/ut_img/Diving Helmet.png"
+  },
+  {
+    "name": "DJ Helm",
+    "img_path": "./output/ut_img/DJ Helm.png"
+  },
+  {
+    "name": "Dragon Horns",
+    "img_path": "./output/ut_img/Dragon Horns.png"
+  },
+  {
+    "name": "Dual Katanas",
+    "img_path": "./output/ut_img/Dual Katanas.png"
+  },
+  {
+    "name": "Ducky Life Preserver",
+    "img_path": "./output/ut_img/Ducky Life Preserver.png"
+  },
+  {
+    "name": "Duffle Bag",
+    "img_path": "./output/ut_img/Duffle Bag.png"
+  },
+  {
+    "name": "Dutch Jersey",
+    "img_path": "./output/ut_img/Dutch Jersey.png"
+  },
+  {
+    "name": "Earbuds",
+    "img_path": "./output/ut_img/Earbuds.png"
+  },
+  {
+    "name": "Edible Arrangement",
+    "img_path": "./output/ut_img/Edible Arrangement.png"
+  },
+  {
+    "name": "Elephant Hoodie",
+    "img_path": "./output/ut_img/Elephant Hoodie.png"
+  },
+  {
+    "name": "Elf Hat",
+    "img_path": "./output/ut_img/Elf Hat.png"
+  },
+  {
+    "name": "Elf Top",
+    "img_path": "./output/ut_img/Elf Top.png"
+  },
+  {
+    "name": "Elver Jacket",
+    "img_path": "./output/ut_img/Elver Jacket.png"
+  },
+  {
+    "name": "Elver Pantaloons",
+    "img_path": "./output/ut_img/Elver Pantaloons.png"
+  },
+  {
+    "name": "Ember T-Shirt",
+    "img_path": "./output/ut_img/Ember TShirt.png"
+  },
+  {
+    "name": "Enchanted Shirt",
+    "img_path": "./output/ut_img/Enchanted Shirt.png"
+  },
+  {
+    "name": "Explorer Bottom",
+    "img_path": "./output/ut_img/Explorer Bottom.png"
+  },
+  {
+    "name": "Explorer Gear",
+    "img_path": "./output/ut_img/Explorer Gear.png"
+  },
+  {
+    "name": "Explorer Hat",
+    "img_path": "./output/ut_img/Explorer Hat.png"
+  },
+  {
+    "name": "Explorer Pith Helmet",
+    "img_path": "./output/ut_img/Explorer Pith Helmet.png"
+  },
+  {
+    "name": "Explorer Top",
+    "img_path": "./output/ut_img/Explorer Top.png"
+  },
+  {
+    "name": "Eyepatch",
+    "img_path": "./output/ut_img/Eyepatch.png"
+  },
+  {
+    "name": "Feather Crown",
+    "img_path": "./output/ut_img/Feather Crown.png"
+  },
+  {
+    "name": "Feather Hoodie",
+    "img_path": "./output/ut_img/Feather Hoodie.png"
+  },
+  {
+    "name": "Feathered Hat",
+    "img_path": "./output/ut_img/Feathered Hat.png"
+  },
+  {
+    "name": "Feline Hair",
+    "img_path": "./output/ut_img/Feline Hair.png"
+  },
+  {
+    "name": "Festive Bottom",
+    "img_path": "./output/ut_img/Festive Bottom.png"
+  },
+  {
+    "name": "Festive Gift Present",
+    "img_path": "./output/ut_img/Festive Gift Present.png"
+  },
+  {
+    "name": "Festive Hat",
+    "img_path": "./output/ut_img/Festive Hat.png"
+  },
+  {
+    "name": "Festive Top",
+    "img_path": "./output/ut_img/Festive Top.png"
+  },
+  {
+    "name": "Fez",
+    "img_path": "./output/ut_img/Fez.png"
+  },
+  {
+    "name": "Filipino Jersey",
+    "img_path": "./output/ut_img/Filipino Jersey.png"
+  },
+  {
+    "name": "Finnish Jersey",
+    "img_path": "./output/ut_img/Finnish Jersey.png"
+  },
+  {
+    "name": "Fish Shirt",
+    "img_path": "./output/ut_img/Fish Shirt.png"
+  },
+  {
+    "name": "Fish Tie",
+    "img_path": "./output/ut_img/Fish Tie.png"
+  },
+  {
+    "name": "Fishbowl",
+    "img_path": "./output/ut_img/Fishbowl.png"
+  },
+  {
+    "name": "Flower Shirt",
+    "img_path": "./output/ut_img/Flower Shirt.png"
+  },
+  {
+    "name": "French Jersey",
+    "img_path": "./output/ut_img/French Jersey.png"
+  },
+  {
+    "name": "Fur Hood",
+    "img_path": "./output/ut_img/Fur Hood.png"
+  },
+  {
+    "name": "Garland",
+    "img_path": "./output/ut_img/Garland.png"
+  },
+  {
+    "name": "German Jersey",
+    "img_path": "./output/ut_img/German Jersey.png"
+  },
+  {
+    "name": "Gold Birthday Party Hat",
+    "img_path": "./output/ut_img/Gold Birthday Party Hat.png"
+  },
+  {
+    "name": "Gold Neck Chain",
+    "img_path": "./output/ut_img/Gold Neck Chain.png"
+  },
+  {
+    "name": "Gold Origami Party Hat",
+    "img_path": "./output/ut_img/Gold Origami Party Hat.png"
+  },
+  {
+    "name": "Golden Fleece Cape",
+    "img_path": "./output/ut_img/Golden Fleece Cape.png"
+  },
+  {
+    "name": "Grass Skirt",
+    "img_path": "./output/ut_img/Grass Skirt.png"
+  },
+  {
+    "name": "Gray Plaid Bowtie",
+    "img_path": "./output/ut_img/Gray Plaid Bowtie.png"
+  },
+  {
+    "name": "Gray Plaid Tie",
+    "img_path": "./output/ut_img/Gray Plaid Tie.png"
+  },
+  {
+    "name": "Gray Skater Top",
+    "img_path": "./output/ut_img/Gray Skater Top.png"
+  },
+  {
+    "name": "Gray-Blue Plaid Tie",
+    "img_path": "./output/ut_img/GrayBlue Plaid Tie.png"
+  },
+  {
+    "name": "Green Birthday Party Hat",
+    "img_path": "./output/ut_img/Green Birthday Party Hat.png"
+  },
+  {
+    "name": "Green Origami Party Hat",
+    "img_path": "./output/ut_img/Green Origami Party Hat.png"
+  },
+  {
+    "name": "Green Plaid Shirt",
+    "img_path": "./output/ut_img/Green Plaid Shirt.png"
+  },
+  {
+    "name": "Green Polka Dot Bowtie",
+    "img_path": "./output/ut_img/Green Polka Dot Bowtie.png"
+  },
+  {
+    "name": "Green Skater Pants",
+    "img_path": "./output/ut_img/Green Skater Pants.png"
+  },
+  {
+    "name": "Green Ski Goggles",
+    "img_path": "./output/ut_img/Green Ski Goggles.png"
+  },
+  {
+    "name": "Green Ski Pants",
+    "img_path": "./output/ut_img/Green Ski Pants.png"
+  },
+  {
+    "name": "Green Striped Tie",
+    "img_path": "./output/ut_img/Green Striped Tie.png"
+  },
+  {
+    "name": "Grocery Bag",
+    "img_path": "./output/ut_img/Grocery Bag.png"
+  },
+  {
+    "name": "Halloween Bottom",
+    "img_path": "./output/ut_img/Halloween Bottom.png"
+  },
+  {
+    "name": "Halloween Cape",
+    "img_path": "./output/ut_img/Halloween Cape.png"
+  },
+  {
+    "name": "Halloween Gift Present",
+    "img_path": "./output/ut_img/Halloween Gift Present.png"
+  },
+  {
+    "name": "Halloween Top",
+    "img_path": "./output/ut_img/Halloween Top.png"
+  },
+  {
+    "name": "Hannya Mask",
+    "img_path": "./output/ut_img/Hannya Mask.png"
+  },
+  {
+    "name": "Happy Tiki Mask",
+    "img_path": "./output/ut_img/Happy Tiki Mask.png"
+  },
+  {
+    "name": "Harp",
+    "img_path": "./output/ut_img/Harp.png"
+  },
+  {
+    "name": "Headband",
+    "img_path": "./output/ut_img/Headband.png"
+  },
+  {
+    "name": "Headphones",
+    "img_path": "./output/ut_img/Headphones.png"
+  },
+  {
+    "name": "Headress",
+    "img_path": "./output/ut_img/Headress.png"
+  },
+  {
+    "name": "Headset",
+    "img_path": "./output/ut_img/Headset.png"
+  },
+  {
+    "name": "Heart Shirt",
+    "img_path": "./output/ut_img/Heart Shirt.png"
+  },
+  {
+    "name": "Hermes' Helmet",
+    "img_path": "./output/ut_img/Hermes Helmet.png"
+  },
+  {
+    "name": "Holiday Scarf",
+    "img_path": "./output/ut_img/Holiday Scarf.png"
+  },
+  {
+    "name": "Holiday Sweater",
+    "img_path": "./output/ut_img/Holiday Sweater.png"
+  },
+  {
+    "name": "Hot Mystery Box",
+    "img_path": "./output/ut_img/Hot Mystery Box.png"
+  },
+  {
+    "name": "Hourglass Hoodie",
+    "img_path": "./output/ut_img/Hourglass Hoodie.png"
+  },
+  {
+    "name": "Indonesian Jersey",
+    "img_path": "./output/ut_img/Indonesian Jersey.png"
+  },
+  {
+    "name": "Irish Knight Bottom",
+    "img_path": "./output/ut_img/Irish Knight Bottom.png"
+  },
+  {
+    "name": "Irish Knight Helm",
+    "img_path": "./output/ut_img/Irish Knight Helm.png"
+  },
+  {
+    "name": "Irish Knight Shoulder Pads",
+    "img_path": "./output/ut_img/Irish Knight Shoulder Pads.png"
+  },
+  {
+    "name": "Irish Knight Top",
+    "img_path": "./output/ut_img/Irish Knight Top.png"
+  },
+  {
+    "name": "Italian Jersey",
+    "img_path": "./output/ut_img/Italian Jersey.png"
+  },
+  {
+    "name": "Jack-o-Lantern",
+    "img_path": "./output/ut_img/JackoLantern.png"
+  },
+  {
+    "name": "January 2017 Workshop Crate #1",
+    "img_path": "./output/ut_img/January 2017 Workshop Crate 1.png"
+  },
+  {
+    "name": "Japanese Jersey",
+    "img_path": "./output/ut_img/Japanese Jersey.png"
+  },
+  {
+    "name": "Jester Cap",
+    "img_path": "./output/ut_img/Jester Cap.png"
+  },
+  {
+    "name": "Jolt T-Shirt",
+    "img_path": "./output/ut_img/Jolt TShirt.png"
+  },
+  {
+    "name": "July 2017 Workshop Crate #3",
+    "img_path": "./output/ut_img/July 2017 Workshop Crate 3.png"
+  },
+  {
+    "name": "Khaki Pants",
+    "img_path": "./output/ut_img/Khaki Pants.png"
+  },
+  {
+    "name": "Khaki Shorts",
+    "img_path": "./output/ut_img/Khaki Shorts.png"
+  },
+  {
+    "name": "Kill Counter Removal Tool",
+    "img_path": "./output/ut_img/Kill Counter Removal Tool.png"
+  },
+  {
+    "name": "King Crab",
+    "img_path": "./output/ut_img/King Crab.png"
+  },
+  {
+    "name": "Korean Jersey",
+    "img_path": "./output/ut_img/Korean Jersey.png"
+  },
+  {
+    "name": "Kratos' Pauldron",
+    "img_path": "./output/ut_img/Kratos Pauldron.png"
+  },
+  {
+    "name": "Kukui Nuts",
+    "img_path": "./output/ut_img/Kukui Nuts.png"
+  },
+  {
+    "name": "Lei",
+    "img_path": "./output/ut_img/Lei.png"
+  },
+  {
+    "name": "Light Blue Plaid Shirt",
+    "img_path": "./output/ut_img/Light Blue Plaid Shirt.png"
+  },
+  {
+    "name": "Light Purple Plaid Shirt",
+    "img_path": "./output/ut_img/Light Purple Plaid Shirt.png"
+  },
+  {
+    "name": "Loose Blue Shirt",
+    "img_path": "./output/ut_img/Loose Blue Shirt.png"
+  },
+  {
+    "name": "Loose Olive Shirt",
+    "img_path": "./output/ut_img/Loose Olive Shirt.png"
+  },
+  {
+    "name": "Loose Purple Shirt",
+    "img_path": "./output/ut_img/Loose Purple Shirt.png"
+  },
+  {
+    "name": "Loose Tan Shirt",
+    "img_path": "./output/ut_img/Loose Tan Shirt.png"
+  },
+  {
+    "name": "Luck o' The Irish Bottom",
+    "img_path": "./output/ut_img/Luck o The Irish Bottom.png"
+  },
+  {
+    "name": "Luck o' The Irish Hat",
+    "img_path": "./output/ut_img/Luck o The Irish Hat.png"
+  },
+  {
+    "name": "Luck o' The Irish Top",
+    "img_path": "./output/ut_img/Luck o The Irish Top.png"
+  },
+  {
+    "name": "Lucky Hoodie",
+    "img_path": "./output/ut_img/Lucky Hoodie.png"
+  },
+  {
+    "name": "Mad Scientist Goggles",
+    "img_path": "./output/ut_img/Mad Scientist Goggles.png"
+  },
+  {
+    "name": "Mad Scientist Top",
+    "img_path": "./output/ut_img/Mad Scientist Top.png"
+  },
+  {
+    "name": "Magic Bottom",
+    "img_path": "./output/ut_img/Magic Bottom.png"
+  },
+  {
+    "name": "Magic Cape",
+    "img_path": "./output/ut_img/Magic Cape.png"
+  },
+  {
+    "name": "Magic Hat",
+    "img_path": "./output/ut_img/Magic Hat.png"
+  },
+  {
+    "name": "Magic Top",
+    "img_path": "./output/ut_img/Magic Top.png"
+  },
+  {
+    "name": "Makemake Veil",
+    "img_path": "./output/ut_img/Makemake Veil.png"
+  },
+  {
+    "name": "Medusa's Hair",
+    "img_path": "./output/ut_img/Medusas Hair.png"
+  },
+  {
+    "name": "Mexican Jersey",
+    "img_path": "./output/ut_img/Mexican Jersey.png"
+  },
+  {
+    "name": "Minotaur Horns",
+    "img_path": "./output/ut_img/Minotaur Horns.png"
+  },
+  {
+    "name": "Moai Head",
+    "img_path": "./output/ut_img/Moai Head.png"
+  },
+  {
+    "name": "Motorcyclist Helmet",
+    "img_path": "./output/ut_img/Motorcyclist Helmet.png"
+  },
+  {
+    "name": "Mummy Bottom",
+    "img_path": "./output/ut_img/Mummy Bottom.png"
+  },
+  {
+    "name": "Mummy Hat",
+    "img_path": "./output/ut_img/Mummy Hat.png"
+  },
+  {
+    "name": "Mummy Top",
+    "img_path": "./output/ut_img/Mummy Top.png"
+  },
+  {
+    "name": "Navy Bottom",
+    "img_path": "./output/ut_img/Navy Bottom.png"
+  },
+  {
+    "name": "Navy Hat",
+    "img_path": "./output/ut_img/Navy Hat.png"
+  },
+  {
+    "name": "Navy Polka Dot Bowtie",
+    "img_path": "./output/ut_img/Navy Polka Dot Bowtie.png"
+  },
+  {
+    "name": "Navy Skater Pants",
+    "img_path": "./output/ut_img/Navy Skater Pants.png"
+  },
+  {
+    "name": "Navy Skater Top",
+    "img_path": "./output/ut_img/Navy Skater Top.png"
+  },
+  {
+    "name": "Navy Striped Tie",
+    "img_path": "./output/ut_img/Navy Striped Tie.png"
+  },
+  {
+    "name": "Navy Top",
+    "img_path": "./output/ut_img/Navy Top.png"
+  },
+  {
+    "name": "Nerdy Glasses",
+    "img_path": "./output/ut_img/Nerdy Glasses.png"
+  },
+  {
+    "name": "News Cap",
+    "img_path": "./output/ut_img/News Cap.png"
+  },
+  {
+    "name": "Ninja Belt",
+    "img_path": "./output/ut_img/Ninja Belt.png"
+  },
+  {
+    "name": "Norwegian Jersey",
+    "img_path": "./output/ut_img/Norwegian Jersey.png"
+  },
+  {
+    "name": "Obi",
+    "img_path": "./output/ut_img/Obi.png"
+  },
+  {
+    "name": "Octavio",
+    "img_path": "./output/ut_img/Octavio.png"
+  },
+  {
+    "name": "Olive Boonie",
+    "img_path": "./output/ut_img/Olive Boonie.png"
+  },
+  {
+    "name": "Olive Leaf Crown",
+    "img_path": "./output/ut_img/Olive Leaf Crown.png"
+  },
+  {
+    "name": "Olive Neckscarf",
+    "img_path": "./output/ut_img/Olive Neckscarf.png"
+  },
+  {
+    "name": "Olive Sweatpants",
+    "img_path": "./output/ut_img/Olive Sweatpants.png"
+  },
+  {
+    "name": "Operator Cap",
+    "img_path": "./output/ut_img/Operator Cap.png"
+  },
+  {
+    "name": "Orange Birthday Party Hat",
+    "img_path": "./output/ut_img/Orange Birthday Party Hat.png"
+  },
+  {
+    "name": "Orange Origami Party Hat",
+    "img_path": "./output/ut_img/Orange Origami Party Hat.png"
+  },
+  {
+    "name": "Orange Plaid Shirt",
+    "img_path": "./output/ut_img/Orange Plaid Shirt.png"
+  },
+  {
+    "name": "Orange Ski Goggles",
+    "img_path": "./output/ut_img/Orange Ski Goggles.png"
+  },
+  {
+    "name": "Orange Ski Pants",
+    "img_path": "./output/ut_img/Orange Ski Pants.png"
+  },
+  {
+    "name": "Outfit Jeans",
+    "img_path": "./output/ut_img/Outfit Jeans.png"
+  },
+  {
+    "name": "Palm Hoodie",
+    "img_path": "./output/ut_img/Palm Hoodie.png"
+  },
+  {
+    "name": "Paper Hat",
+    "img_path": "./output/ut_img/Paper Hat.png"
+  },
+  {
+    "name": "Parkour Bottom",
+    "img_path": "./output/ut_img/Parkour Bottom.png"
+  },
+  {
+    "name": "Parkour Hood",
+    "img_path": "./output/ut_img/Parkour Hood.png"
+  },
+  {
+    "name": "Parkour Top",
+    "img_path": "./output/ut_img/Parkour Top.png"
+  },
+  {
+    "name": "Parrot",
+    "img_path": "./output/ut_img/Parrot.png"
+  },
+  {
+    "name": "Pegasus Horn",
+    "img_path": "./output/ut_img/Pegasus Horn.png"
+  },
+  {
+    "name": "Pegasus Wings",
+    "img_path": "./output/ut_img/Pegasus Wings.png"
+  },
+  {
+    "name": "Pilot Aviators",
+    "img_path": "./output/ut_img/Pilot Aviators.png"
+  },
+  {
+    "name": "Pilot Jacket",
+    "img_path": "./output/ut_img/Pilot Jacket.png"
+  },
+  {
+    "name": "Pilot Respirator",
+    "img_path": "./output/ut_img/Pilot Respirator.png"
+  },
+  {
+    "name": "Pineapple",
+    "img_path": "./output/ut_img/Pineapple.png"
+  },
+  {
+    "name": "Pink Skater Top",
+    "img_path": "./output/ut_img/Pink Skater Top.png"
+  },
+  {
+    "name": "Pirate Bottom",
+    "img_path": "./output/ut_img/Pirate Bottom.png"
+  },
+  {
+    "name": "Pirate Hat",
+    "img_path": "./output/ut_img/Pirate Hat.png"
+  },
+  {
+    "name": "Pirate Jersey",
+    "img_path": "./output/ut_img/Pirate Jersey.png"
+  },
+  {
+    "name": "Pirate Top",
+    "img_path": "./output/ut_img/Pirate Top.png"
+  },
+  {
+    "name": "Pistonpack",
+    "img_path": "./output/ut_img/Pistonpack.png"
+  },
+  {
+    "name": "Player Kills Counter",
+    "img_path": "./output/ut_img/Player Kills Counter.png"
+  },
+  {
+    "name": "Plumeria",
+    "img_path": "./output/ut_img/Plumeria.png"
+  },
+  {
+    "name": "Pocket Rose",
+    "img_path": "./output/ut_img/Pocket Rose.png"
+  },
+  {
+    "name": "Polish Jersey",
+    "img_path": "./output/ut_img/Polish Jersey.png"
+  },
+  {
+    "name": "Portuguese Jersey",
+    "img_path": "./output/ut_img/Portuguese Jersey.png"
+  },
+  {
+    "name": "Power Hoodie",
+    "img_path": "./output/ut_img/Power Hoodie.png"
+  },
+  {
+    "name": "Professional Fishing Vest",
+    "img_path": "./output/ut_img/Professional Fishing Vest.png"
+  },
+  {
+    "name": "Propeller Hat",
+    "img_path": "./output/ut_img/Propeller Hat.png"
+  },
+  {
+    "name": "Purple Birthday Party Hat",
+    "img_path": "./output/ut_img/Purple Birthday Party Hat.png"
+  },
+  {
+    "name": "Purple Boonie",
+    "img_path": "./output/ut_img/Purple Boonie.png"
+  },
+  {
+    "name": "Purple Mystery Box",
+    "img_path": "./output/ut_img/Purple Mystery Box.png"
+  },
+  {
+    "name": "Purple Neckscarf",
+    "img_path": "./output/ut_img/Purple Neckscarf.png"
+  },
+  {
+    "name": "Purple Origami Party Hat",
+    "img_path": "./output/ut_img/Purple Origami Party Hat.png"
+  },
+  {
+    "name": "Purple Ski Goggles",
+    "img_path": "./output/ut_img/Purple Ski Goggles.png"
+  },
+  {
+    "name": "Purple Ski Pants",
+    "img_path": "./output/ut_img/Purple Ski Pants.png"
+  },
+  {
+    "name": "Purple Sweatpants",
+    "img_path": "./output/ut_img/Purple Sweatpants.png"
+  },
+  {
+    "name": "Raccoon Hat",
+    "img_path": "./output/ut_img/Raccoon Hat.png"
+  },
+  {
+    "name": "Radio Backpack",
+    "img_path": "./output/ut_img/Radio Backpack.png"
+  },
+  {
+    "name": "Ragdoll Modifier Removal Tool",
+    "img_path": "./output/ut_img/Ragdoll Modifier Removal Tool.png"
+  },
+  {
+    "name": "Rainbow Birthday Party Hat",
+    "img_path": "./output/ut_img/Rainbow Birthday Party Hat.png"
+  },
+  {
+    "name": "Rainbow Bowtie",
+    "img_path": "./output/ut_img/Rainbow Bowtie.png"
+  },
+  {
+    "name": "Rainbow Jersey",
+    "img_path": "./output/ut_img/Rainbow Jersey.png"
+  },
+  {
+    "name": "Rainbow Origami Party Hat",
+    "img_path": "./output/ut_img/Rainbow Origami Party Hat.png"
+  },
+  {
+    "name": "Rainbow Tie",
+    "img_path": "./output/ut_img/Rainbow Tie.png"
+  },
+  {
+    "name": "Red Birthday Party Hat",
+    "img_path": "./output/ut_img/Red Birthday Party Hat.png"
+  },
+  {
+    "name": "Red Hawaii Tee",
+    "img_path": "./output/ut_img/Red Hawaii Tee.png"
+  },
+  {
+    "name": "Red Mystery Box",
+    "img_path": "./output/ut_img/Red Mystery Box.png"
+  },
+  {
+    "name": "Red Origami Party Hat",
+    "img_path": "./output/ut_img/Red Origami Party Hat.png"
+  },
+  {
+    "name": "Red Plaid Bowtie",
+    "img_path": "./output/ut_img/Red Plaid Bowtie.png"
+  },
+  {
+    "name": "Red Plaid Shirt",
+    "img_path": "./output/ut_img/Red Plaid Shirt.png"
+  },
+  {
+    "name": "Red Plaid Tie",
+    "img_path": "./output/ut_img/Red Plaid Tie.png"
+  },
+  {
+    "name": "Red Polka Dot Bowtie",
+    "img_path": "./output/ut_img/Red Polka Dot Bowtie.png"
+  },
+  {
+    "name": "Red Skater Top",
+    "img_path": "./output/ut_img/Red Skater Top.png"
+  },
+  {
+    "name": "Red Ski Pants",
+    "img_path": "./output/ut_img/Red Ski Pants.png"
+  },
+  {
+    "name": "Red Striped Tie",
+    "img_path": "./output/ut_img/Red Striped Tie.png"
+  },
+  {
+    "name": "Reindeer Nose",
+    "img_path": "./output/ut_img/Reindeer Nose.png"
+  },
+  {
+    "name": "Respirator",
+    "img_path": "./output/ut_img/Respirator.png"
+  },
+  {
+    "name": "Revolutionary Bottom",
+    "img_path": "./output/ut_img/Revolutionary Bottom.png"
+  },
+  {
+    "name": "Revolutionary Cap",
+    "img_path": "./output/ut_img/Revolutionary Cap.png"
+  },
+  {
+    "name": "Revolutionary Top",
+    "img_path": "./output/ut_img/Revolutionary Top.png"
+  },
+  {
+    "name": "Rocket Boots",
+    "img_path": "./output/ut_img/Rocket Boots.png"
+  },
+  {
+    "name": "RocketMod Shirt",
+    "img_path": "./output/ut_img/RocketMod Shirt.png"
+  },
+  {
+    "name": "Romanian Jersey",
+    "img_path": "./output/ut_img/Romanian Jersey.png"
+  },
+  {
+    "name": "Rose Tinted Glasses",
+    "img_path": "./output/ut_img/Rose Tinted Glasses.png"
+  },
+  {
+    "name": "Runic Cape",
+    "img_path": "./output/ut_img/Runic Cape.png"
+  },
+  {
+    "name": "Runic Shirt",
+    "img_path": "./output/ut_img/Runic Shirt.png"
+  },
+  {
+    "name": "Russian Jersey",
+    "img_path": "./output/ut_img/Russian Jersey.png"
+  },
+  {
+    "name": "Scroll Cloak",
+    "img_path": "./output/ut_img/Scroll Cloak.png"
+  },
+  {
+    "name": "September 2017 Workshop Crate #4",
+    "img_path": "./output/ut_img/September 2017 Workshop Crate 4.png"
+  },
+  {
+    "name": "Shades",
+    "img_path": "./output/ut_img/Shades.png"
+  },
+  {
+    "name": "Shark Fin",
+    "img_path": "./output/ut_img/Shark Fin.png"
+  },
+  {
+    "name": "Shark Tooth Necklace",
+    "img_path": "./output/ut_img/Shark Tooth Necklace.png"
+  },
+  {
+    "name": "Sheriff Star",
+    "img_path": "./output/ut_img/Sheriff Star.png"
+  },
+  {
+    "name": "Shoulder Falcon",
+    "img_path": "./output/ut_img/Shoulder Falcon.png"
+  },
+  {
+    "name": "Shuttershades",
+    "img_path": "./output/ut_img/Shuttershades.png"
+  },
+  {
+    "name": "Silver Birthday Party Hat",
+    "img_path": "./output/ut_img/Silver Birthday Party Hat.png"
+  },
+  {
+    "name": "Silver Origami Party Hat",
+    "img_path": "./output/ut_img/Silver Origami Party Hat.png"
+  },
+  {
+    "name": "Skeleton Bottom",
+    "img_path": "./output/ut_img/Skeleton Bottom.png"
+  },
+  {
+    "name": "Skeleton Top",
+    "img_path": "./output/ut_img/Skeleton Top.png"
+  },
+  {
+    "name": "Snake",
+    "img_path": "./output/ut_img/Snake.png"
+  },
+  {
+    "name": "Snow Shirt",
+    "img_path": "./output/ut_img/Snow Shirt.png"
+  },
+  {
+    "name": "Snowman Bottom",
+    "img_path": "./output/ut_img/Snowman Bottom.png"
+  },
+  {
+    "name": "Snowman Hat",
+    "img_path": "./output/ut_img/Snowman Hat.png"
+  },
+  {
+    "name": "Snowman Top",
+    "img_path": "./output/ut_img/Snowman Top.png"
+  },
+  {
+    "name": "Sombrero",
+    "img_path": "./output/ut_img/Sombrero.png"
+  },
+  {
+    "name": "Spanish Jersey",
+    "img_path": "./output/ut_img/Spanish Jersey.png"
+  },
+  {
+    "name": "Spark T-Shirt",
+    "img_path": "./output/ut_img/Spark TShirt.png"
+  },
+  {
+    "name": "Squid Hoodie",
+    "img_path": "./output/ut_img/Squid Hoodie.png"
+  },
+  {
+    "name": "Stormbrand Armor",
+    "img_path": "./output/ut_img/Stormbrand Armor.png"
+  },
+  {
+    "name": "Stormbrand Mask",
+    "img_path": "./output/ut_img/Stormbrand Mask.png"
+  },
+  {
+    "name": "Sushi Chef Hat",
+    "img_path": "./output/ut_img/Sushi Chef Hat.png"
+  },
+  {
+    "name": "Swedish Jersey",
+    "img_path": "./output/ut_img/Swedish Jersey.png"
+  },
+  {
+    "name": "Tan Boonie",
+    "img_path": "./output/ut_img/Tan Boonie.png"
+  },
+  {
+    "name": "Tan Neckscarf",
+    "img_path": "./output/ut_img/Tan Neckscarf.png"
+  },
+  {
+    "name": "Tan Sweatpants",
+    "img_path": "./output/ut_img/Tan Sweatpants.png"
+  },
+  {
+    "name": "Tank Cannon",
+    "img_path": "./output/ut_img/Tank Cannon.png"
+  },
+  {
+    "name": "Tank Hat",
+    "img_path": "./output/ut_img/Tank Hat.png"
+  },
+  {
+    "name": "Thai Jersey",
+    "img_path": "./output/ut_img/Thai Jersey.png"
+  },
+  {
+    "name": "Toga Top",
+    "img_path": "./output/ut_img/Toga Top.png"
+  },
+  {
+    "name": "Tornado Shirt",
+    "img_path": "./output/ut_img/Tornado Shirt.png"
+  },
+  {
+    "name": "Total Kills Counter",
+    "img_path": "./output/ut_img/Total Kills Counter.png"
+  },
+  {
+    "name": "Tribal Markings",
+    "img_path": "./output/ut_img/Tribal Markings.png"
+  },
+  {
+    "name": "Trouser Pants",
+    "img_path": "./output/ut_img/Trouser Pants.png"
+  },
+  {
+    "name": "Trouser Shorts",
+    "img_path": "./output/ut_img/Trouser Shorts.png"
+  },
+  {
+    "name": "Turkish Jersey",
+    "img_path": "./output/ut_img/Turkish Jersey.png"
+  },
+  {
+    "name": "Turtle Shirt",
+    "img_path": "./output/ut_img/Turtle Shirt.png"
+  },
+  {
+    "name": "TV",
+    "img_path": "./output/ut_img/TV.png"
+  },
+  {
+    "name": "UK Jersey",
+    "img_path": "./output/ut_img/UK Jersey.png"
+  },
+  {
+    "name": "Ukrainian Jersey",
+    "img_path": "./output/ut_img/Ukrainian Jersey.png"
+  },
+  {
+    "name": "USA Jersey",
+    "img_path": "./output/ut_img/USA Jersey.png"
+  },
+  {
+    "name": "Ushanka",
+    "img_path": "./output/ut_img/Ushanka.png"
+  },
+  {
+    "name": "Vampire Cape",
+    "img_path": "./output/ut_img/Vampire Cape.png"
+  },
+  {
+    "name": "Vampire Cowl",
+    "img_path": "./output/ut_img/Vampire Cowl.png"
+  },
+  {
+    "name": "Vampire Top",
+    "img_path": "./output/ut_img/Vampire Top.png"
+  },
+  {
+    "name": "Viking Helmet",
+    "img_path": "./output/ut_img/Viking Helmet.png"
+  },
+  {
+    "name": "Vintage Trenchcoat Top",
+    "img_path": "./output/ut_img/Vintage Trenchcoat Top.png"
+  },
+  {
+    "name": "Vintage Ushanka",
+    "img_path": "./output/ut_img/Vintage Ushanka.png"
+  },
+  {
+    "name": "Virtual Goggles",
+    "img_path": "./output/ut_img/Virtual Goggles.png"
+  },
+  {
+    "name": "Wave Shirt",
+    "img_path": "./output/ut_img/Wave Shirt.png"
+  },
+  {
+    "name": "White Fedora",
+    "img_path": "./output/ut_img/White Fedora.png"
+  },
+  {
+    "name": "White Polka Dot Bowtie",
+    "img_path": "./output/ut_img/White Polka Dot Bowtie.png"
+  },
+  {
+    "name": "White Skater Pants",
+    "img_path": "./output/ut_img/White Skater Pants.png"
+  },
+  {
+    "name": "White Striped Tie",
+    "img_path": "./output/ut_img/White Striped Tie.png"
+  },
+  {
+    "name": "White Tuxedo Bottom",
+    "img_path": "./output/ut_img/White Tuxedo Bottom.png"
+  },
+  {
+    "name": "White Tuxedo Top",
+    "img_path": "./output/ut_img/White Tuxedo Top.png"
+  },
+  {
+    "name": "Wind Up Key",
+    "img_path": "./output/ut_img/Wind Up Key.png"
+  },
+  {
+    "name": "Wolf Hat",
+    "img_path": "./output/ut_img/Wolf Hat.png"
+  },
+  {
+    "name": "Work Jeans",
+    "img_path": "./output/ut_img/Work Jeans.png"
+  },
+  {
+    "name": "Yellow Birthday Party Hat",
+    "img_path": "./output/ut_img/Yellow Birthday Party Hat.png"
+  },
+  {
+    "name": "Yellow Origami Party Hat",
+    "img_path": "./output/ut_img/Yellow Origami Party Hat.png"
+  },
+  {
+    "name": "Yellow Ski Goggles",
+    "img_path": "./output/ut_img/Yellow Ski Goggles.png"
+  },
+  {
+    "name": "Yellow Ski Pants",
+    "img_path": "./output/ut_img/Yellow Ski Pants.png"
+  },
+  {
+    "name": "Yield Hoodie",
+    "img_path": "./output/ut_img/Yield Hoodie.png"
+  },
+  {
+    "name": "Zero Kelvin Weapon Kit",
+    "img_path": "./output/ut_img/Zero Kelvin Weapon Kit.png"
+  },
+  {
+    "name": "Zeus' Voltaic Hair",
+    "img_path": "./output/ut_img/Zeus Voltaic Hair.png"
+  }
+]
